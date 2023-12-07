@@ -2,8 +2,8 @@ public class Food {
     int foodValue, happinessLvl, x, y, ovalHeight, ovalWidth;
     String foodName;
 
-    public void cupcake() {
-        this.foodName = "Cupcake";
+    public void cigarette() {
+        this.foodName = "cigarette";
         this.foodValue = -10;
         this.happinessLvl = 30;
     }
@@ -18,7 +18,7 @@ public class Food {
         this.happinessLvl = -10;
     }
 
-    public void cupcakeParameter() {
+    public void cigaretteParameter() {
         this.x = 150;
         this.y = 250;
         this.ovalHeight = 100;

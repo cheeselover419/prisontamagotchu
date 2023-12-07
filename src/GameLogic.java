@@ -15,9 +15,9 @@ public class GameLogic {
 
     public static void main(String[] args) {
 
-        Food cupcake = new Food();
-        cupcake.cupcake();
-        cupcake.cupcakeParameter();
+        Food cigarette = new Food();
+        cigarette.cigarette();
+        cigarette.cigaretteParameter();
         Food pizza = new Food();
         pizza.pizza();
         pizza.pizzaParameter();
@@ -29,14 +29,12 @@ public class GameLogic {
         homeB.homeParameter();
         MenuButtons cutlB = new MenuButtons();
         cutlB.cutleryParameter();
-        MenuButtons gameB = new MenuButtons();
-        gameB.cutleryParameter();
 
         MenuButtons restaB = new MenuButtons();
         restaB.restartParameter();
 
         ArrayList<Food> foodCanvas = new ArrayList<>();
-        foodCanvas.add(cupcake);
+        foodCanvas.add(cigarette);
         foodCanvas.add(pizza);
         foodCanvas.add(broccoli);
 
@@ -55,9 +53,9 @@ public class GameLogic {
         c.canvas.addMouseListener(new MouseAdapter() {
             public void mouseClicked(MouseEvent e) {
                 if (Var.switchScreen == Display.FOOD_SCREEN){
-                    if (foodCollide(cupcake, e)) {
-                        pet.moreHappiness(cupcake);
-                        pet.moreHealth(cupcake);
+                    if (foodCollide(cigarette, e)) {
+                        pet.moreHappiness(cigarette);
+                        pet.moreHealth(cigarette);
                     }
                     if (foodCollide(pizza, e)) {
                         pet.moreHappiness(pizza);
@@ -102,9 +100,6 @@ public class GameLogic {
                 if (Var.switchScreen == Display.HOME_SCREEN){
                     c.petAnimation();
                 }
-                if (Var.switchScreen == Display.GAME_SCREEN){
-                    c.games();
-                }
                 if (Var.switchScreen == Display.ILL){
                     ; // animation of a sick pet
                 }
@@ -140,7 +135,6 @@ public class GameLogic {
             json.put("loveLvl", p.loveLvl);
             json.put("health", p.healthLvl);
             json.put("happiness", p.happinessLvl);
-            json.put("money", p.money);
 
             FileWriter fw = new FileWriter(Var.petSave);
             fw.write(json.toString());
@@ -160,7 +154,6 @@ public class GameLogic {
             p.loveLvl = json.getInt("loveLvl");
             p.healthLvl = json.getInt("health");
             p.happinessLvl = json.getInt("happiness");
-            p.money = json.getInt("money");
         }
         catch (Exception e){
             e.printStackTrace();

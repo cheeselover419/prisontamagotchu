@@ -16,7 +16,7 @@ public class CanvasLayer {
     int width = 615;
     int height = 635;
     BufferStrategy bufferStrategy;
-    BufferedImage cupcake, pizza, broccoli, bg, cutlery, home, restart, games, cursor, radio;
+    BufferedImage cigarette, pizza, broccoli, bg, cutlery, home, restart, games, cursor, radio;
 
     public CanvasLayer(ArrayList<Food> foodCanvas, Pet name) {
         this.foodCanvas = foodCanvas;
@@ -25,7 +25,7 @@ public class CanvasLayer {
 
 //        filepath to non animated images (food & background)
         try {
-            cupcake = ImageIO.read(new File("src/images/cupcake.png"));
+            cigarette = ImageIO.read(new File("src/images/cupcake.png"));
             pizza = ImageIO.read(new File("src/images/pizza.png"));
             broccoli = ImageIO.read(new File("src/images/broccoli.png"));
             bg = ImageIO.read(new File("src/images/bg.png"));
@@ -127,8 +127,8 @@ public class CanvasLayer {
         g.drawString("What do you want to feed?", width / 2 - 70, height / 2 - 80);
         for (Food i : foodCanvas) {
             if (i == foodCanvas.get(0)) {
-                g.drawString("Cupcake", i.x + 30, i.y + 100);
-                g.drawImage(cupcake, i.x, i.y, null);
+                g.drawString("cigarette", i.x + 30, i.y + 100);
+                g.drawImage(cigarette, i.x, i.y, null);
             }
             if (i == foodCanvas.get(1)) {
                 g.drawString("Pizza", i.x + 40, i.y + 100);
