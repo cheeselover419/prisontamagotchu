@@ -7,12 +7,12 @@ public class Food {
         this.foodValue = -10;
         this.happinessLvl = 30;
     }
-    public void pizza() {
-        this.foodName = "Pizza";
+    public void soup() {
+        this.foodName = "soup";
         this.foodValue = 10;
         this.happinessLvl = 30;
     }
-    public void broccoli() {
+    public void chifir() {
         this.foodName = "Broccoli";
         this.foodValue = 40;
         this.happinessLvl = -10;
@@ -24,13 +24,13 @@ public class Food {
         this.ovalHeight = 100;
         this.ovalWidth = 70;
     }
-    public void pizzaParameter() {
+    public void soupParameter() {
         this.x = 250;
         this.y = 250;
         this.ovalHeight = 100;
         this.ovalWidth = 70;
     }
-    public void broccoliParameter() {
+    public void chifirParameter() {
         this.x = 350;
         this.y = 250;
         this.ovalHeight = 100;

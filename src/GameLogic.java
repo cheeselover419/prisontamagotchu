@@ -18,12 +18,12 @@ public class GameLogic {
         Food cigarette = new Food();
         cigarette.cigarette();
         cigarette.cigaretteParameter();
-        Food pizza = new Food();
-        pizza.pizza();
-        pizza.pizzaParameter();
-        Food broccoli = new Food();
-        broccoli.broccoli();
-        broccoli.broccoliParameter();
+        Food soup = new Food();
+        soup.soup();
+        soup.soupParameter();
+        Food chifir = new Food();
+        chifir.chifir();
+        chifir.chifirParameter();
 
         MenuButtons homeB = new MenuButtons();
         homeB.homeParameter();
@@ -37,8 +37,8 @@ public class GameLogic {
 
         ArrayList<Food> foodCanvas = new ArrayList<>();
         foodCanvas.add(cigarette);
-        foodCanvas.add(pizza);
-        foodCanvas.add(broccoli);
+        foodCanvas.add(soup);
+        foodCanvas.add(chifir);
 
         Pet pet = new Pet("Cutie");
 
@@ -59,13 +59,13 @@ public class GameLogic {
                         pet.moreHappiness(cigarette);
                         pet.moreHealth(cigarette);
                     }
-                    if (foodCollide(pizza, e)) {
-                        pet.moreHappiness(pizza);
-                        pet.moreHealth(pizza);
+                    if (foodCollide(soup, e)) {
+                        pet.moreHappiness(soup);
+                        pet.moreHealth(soup);
                     }
-                    if (foodCollide(broccoli, e)) {
-                        pet.moreHappiness(broccoli);
-                        pet.moreHealth(broccoli);
+                    if (foodCollide(chifir, e)) {
+                        pet.moreHappiness(chifir);
+                        pet.moreHealth(chifir);
                     }
                 }
                 if (imageCollide(homeB, e)){
