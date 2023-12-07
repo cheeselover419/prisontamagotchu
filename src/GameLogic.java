@@ -15,9 +15,9 @@ public class GameLogic {
 
     public static void main(String[] args) {
 
-        Food cupcake = new Food();
-        cupcake.cupcake();
-        cupcake.cupcakeParameter();
+        Food cigarette = new Food();
+        cigarette.cigarette();
+        cigarette.cigaretteParameter();
         Food pizza = new Food();
         pizza.pizza();
         pizza.pizzaParameter();
@@ -36,7 +36,7 @@ public class GameLogic {
         restaB.restartParameter();
 
         ArrayList<Food> foodCanvas = new ArrayList<>();
-        foodCanvas.add(cupcake);
+        foodCanvas.add(cigarette);
         foodCanvas.add(pizza);
         foodCanvas.add(broccoli);
 
@@ -55,9 +55,9 @@ public class GameLogic {
         c.canvas.addMouseListener(new MouseAdapter() {
             public void mouseClicked(MouseEvent e) {
                 if (Var.switchScreen == Display.FOOD_SCREEN){
-                    if (foodCollide(cupcake, e)) {
-                        pet.moreHappiness(cupcake);
-                        pet.moreHealth(cupcake);
+                    if (foodCollide(cigarette, e)) {
+                        pet.moreHappiness(cigarette);
+                        pet.moreHealth(cigarette);
                     }
                     if (foodCollide(pizza, e)) {
                         pet.moreHappiness(pizza);
