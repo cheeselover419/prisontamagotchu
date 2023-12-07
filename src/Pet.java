@@ -50,11 +50,7 @@ public class Pet {
         }
     }
 
-    public void petMoney(){
-        if (money != 0){
-            money -= 1;
-        }
-    }
+
 
     public void petLove() {
         lveTimer = new Timer();
@@ -112,6 +108,13 @@ public class Pet {
             healthLvl = 0;
         }
     }
+    public void lessMoney(Food f){
+        money = money - f.foodCost;
+
+        if (money < 0) {
+            money = 0;
+        }
+    }
 
     public void moreHappinessGame(Games g){
         happinessLvl = happinessLvl + g.happinessLvl;
@@ -129,6 +132,7 @@ public class Pet {
     public void moreMoney(Games g){
         money = money + g.gameValue;
     }
+
     public void illness() {
         illTimer = new Timer();
         Var.illnessTimer = Var.init();

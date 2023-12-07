@@ -67,7 +67,7 @@ public class CanvasLayer {
         g.clearRect(0, 0, width, height);
         g.drawImage(bg, 0, 0, null);
         g.drawImage(home, 0, 0, null);
-        g.drawImage(games, 0,0, null);
+        g.drawImage(games, 150,435, null);
         g.drawImage(cutlery, 0, 0, null);
         g.setColor(new Color(0, 0, 0));
 //        g.drawRect(homeB.x, homeB.y, homeB.width, homeB.height);
@@ -123,20 +123,23 @@ public class CanvasLayer {
 
     public void feeding() {
 
-        g.setColor(new Color(0, 0, 0));
+        g.setColor(new Color(255, 255, 0));
         g.drawString("What do you want to feed?", width / 2 - 70, height / 2 - 80);
         for (Food i : foodCanvas) {
             if (i == foodCanvas.get(0)) {
-                g.drawString("Cupcake", i.x + 30, i.y + 100);
+                g.drawString("Ciggarete", i.x + 30, i.y + 100);
                 g.drawImage(cupcake, i.x, i.y, null);
+                g.drawString("10 $", i.x + 40, i.y + 120);
             }
             if (i == foodCanvas.get(1)) {
                 g.drawString("Pizza", i.x + 40, i.y + 100);
                 g.drawImage(pizza, i.x, i.y, null);
+                g.drawString("30 $", i.x + 40, i.y + 120);
             }
             if (i == foodCanvas.get(2)) {
                 g.drawString("Broccoli", i.x + 30, i.y + 100);
                 g.drawImage(broccoli, i.x, i.y, null);
+                g.drawString("30 $", i.x + 40, i.y + 120);
             }
         }
     }
@@ -166,6 +169,11 @@ public class CanvasLayer {
         g.setColor(new Color(0, 0, 0));
         g.drawString("Your pet "+name.name+" died.", 250, 200);
         g.drawImage(restart, 0, 0, null);
+    }
+
+    public void noMoney(){
+        g.setColor(new Color(255, 255, 0));
+        g.drawString("You have no money!", width /2 - 70, height /2 - 70);
     }
 
     public void buffer() {

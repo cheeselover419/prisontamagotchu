@@ -70,14 +70,17 @@ public class GameLogic {
                     if (foodCollide(cigarette, e)) {
                         pet.moreHappiness(cigarette);
                         pet.moreHealth(cigarette);
+                        pet.lessMoney(cigarette);
                     }
                     if (foodCollide(soup, e)) {
                         pet.moreHappiness(soup);
                         pet.moreHealth(soup);
+                        pet.lessMoney(soup);
                     }
                     if (foodCollide(chifir, e)) {
                         pet.moreHappiness(chifir);
                         pet.moreHealth(chifir);
+                        pet.lessMoney(chifir);
                     }
                 }
 
@@ -130,11 +133,11 @@ public class GameLogic {
                 if (Var.switchScreen == Display.GAME_SCREEN){
                     c.games();
                 }
-                if (Var.switchScreen == Display.ILL){
-                    ; // animation of a sick pet
-                }
                 if (Var.switchScreen == Display.DEAD){
                     c.dead();
+                }
+                if(pet.money == 0){
+                    c.noMoney();
                 }
                 if (pet.happinessLvl == 0 && pet.illTimer == null){
                     pet.illness();

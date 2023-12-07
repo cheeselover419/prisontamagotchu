@@ -21,6 +21,7 @@ enum Display{
     MENU_SCREEN,
     HOME_SCREEN,
     GAME_SCREEN,
+    NO_MONEY_SCREEN,
     FOOD_SCREEN,
     ILL,
     DEAD
