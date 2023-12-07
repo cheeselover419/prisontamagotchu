@@ -11,14 +11,16 @@ public class CanvasLayer {
     JFrame mainFrame = new JFrame();
     Canvas canvas = new Canvas();
     ArrayList<Food> foodCanvas;
+    ArrayList<Games> gamesCanvas;
     Graphics g;
     int width = 615;
     int height = 635;
     BufferStrategy bufferStrategy;
-    BufferedImage cupcake, pizza, broccoli, bg, cutlery, home, restart;
+    BufferedImage cupcake, pizza, broccoli, bg, cutlery, home, restart, games, cursor, radio;
 
     public CanvasLayer(ArrayList<Food> foodCanvas, Pet name) {
         this.foodCanvas = foodCanvas;
+        this.gamesCanvas = gamesCanvas;
         this.name = name;
 
 //        filepath to non animated images (food & background)
@@ -30,6 +32,9 @@ public class CanvasLayer {
             cutlery = ImageIO.read(new File("src/images/cutlery.png"));
             home = ImageIO.read(new File("src/images/home.png"));
             restart = ImageIO.read(new File("src/images/restart.png"));
+            games = ImageIO.read(new File("src/images/gamepad.png"));
+            cursor = ImageIO.read(new File("src/images/cursor.png"));
+            radio = ImageIO.read(new File("src/images/radio.png"));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -62,11 +67,13 @@ public class CanvasLayer {
         g.clearRect(0, 0, width, height);
         g.drawImage(bg, 0, 0, null);
         g.drawImage(home, 0, 0, null);
+        g.drawImage(games, 0,0, null);
         g.drawImage(cutlery, 0, 0, null);
         g.setColor(new Color(0, 0, 0));
 //        g.drawRect(homeB.x, homeB.y, homeB.width, homeB.height);
 //        g.drawRect(cutlB.x, cutlB.y, cutlB.width, cutlB.height);
     }
+
     public void petStats() {
 
         g.setColor(new Color(0, 0, 0, 119));
@@ -92,6 +99,9 @@ public class CanvasLayer {
             int rectPos = 350 + i * 11;
             g.drawRect(rectPos, 130, 8, 10);
         }
+        g.setColor(new Color(0,0,0));
+        g.drawString("Money", 290, 160);
+        g.drawString(String.valueOf(name.money), 370, 160);
         try {
             if (name.loveLvl < 100) {
                 g.drawImage(ImageIO.read(new File(Heart.risingHeart((name.loveLvl) / 5))), 102, 90, null);
@@ -131,8 +141,26 @@ public class CanvasLayer {
         }
     }
 
-    public void illness(){
+    public void games(){
+        g.setColor(new Color(0,0,0));
+        g.drawString("What do you want to play?", width / 2 - 70, height / 2 - 80);
+        for (Games i : gamesCanvas){
+            if (i == gamesCanvas.get(0)) {
+                g.drawString("Clicker", i.x + 30, i.y + 100);
+                g.drawImage(cursor, i.x, i.y, null);
+            }
 
+            if (i == gamesCanvas.get(1)){
+                g.drawString("Radio", i.x + 40, i.y + 100);
+                g.drawImage(radio, i.x, i.y, null);
+            }
+
+        }
+    }
+
+    public void mainMenu(){
+        g.setColor(new Color(0,0,0));
+        g.drawString("Welcome to the game!", width /2 - 70, height / 2 - 80);
     }
 
     public void dead(){

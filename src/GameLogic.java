@@ -29,6 +29,8 @@ public class GameLogic {
         homeB.homeParameter();
         MenuButtons cutlB = new MenuButtons();
         cutlB.cutleryParameter();
+        MenuButtons gameB = new MenuButtons();
+        gameB.cutleryParameter();
 
         MenuButtons restaB = new MenuButtons();
         restaB.restartParameter();
@@ -100,6 +102,9 @@ public class GameLogic {
                 if (Var.switchScreen == Display.HOME_SCREEN){
                     c.petAnimation();
                 }
+                if (Var.switchScreen == Display.GAME_SCREEN){
+                    c.games();
+                }
                 if (Var.switchScreen == Display.ILL){
                     ; // animation of a sick pet
                 }
@@ -135,6 +140,7 @@ public class GameLogic {
             json.put("loveLvl", p.loveLvl);
             json.put("health", p.healthLvl);
             json.put("happiness", p.happinessLvl);
+            json.put("money", p.money);
 
             FileWriter fw = new FileWriter(Var.petSave);
             fw.write(json.toString());
@@ -154,6 +160,7 @@ public class GameLogic {
             p.loveLvl = json.getInt("loveLvl");
             p.healthLvl = json.getInt("health");
             p.happinessLvl = json.getInt("happiness");
+            p.money = json.getInt("money");
         }
         catch (Exception e){
             e.printStackTrace();

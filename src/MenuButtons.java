@@ -19,4 +19,8 @@ public class MenuButtons {
         this.height = 80;
         this.width = 260;
     }
+
+    public void gameParameter(){
+
+    }
 }

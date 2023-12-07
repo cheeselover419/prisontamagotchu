@@ -17,7 +17,9 @@ public class Var {
 }
 enum Display{
     NEW_PET,
+    MENU_SCREEN,
     HOME_SCREEN,
+    GAME_SCREEN,
     FOOD_SCREEN,
     ILL,
     DEAD

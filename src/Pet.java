@@ -2,7 +2,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class Pet {
-    int happinessLvl, healthLvl, happinessMax, healthMax, loveLvl;
+    int happinessLvl, healthLvl, happinessMax, healthMax, loveLvl, money;
     String name;
     String[] petFile = {"p1", "p2", "p3"};
     String filePet = "src/images/pet/" + petFile[Var.animationPetFileInt] + ".png";
@@ -35,6 +35,7 @@ public class Pet {
         this.happinessLvl = 50;
         this.healthLvl = 50;
         this.loveLvl = 0;
+        this.money = 10;
     }
 
     public void petHealth() {
@@ -46,6 +47,12 @@ public class Pet {
     public void petHappiness() {
         if (happinessLvl != 0) {
             happinessLvl -= 1;
+        }
+    }
+
+    public void petMoney(){
+        if (money != 0){
+            money -= 1;
         }
     }
 
