@@ -74,6 +74,9 @@ public class GameLogic {
                 if (imageCollide(cutlB, e)){
                     Var.switchScreen = Display.FOOD_SCREEN;;
                 }
+                if (imageCollide(gameB, e)){
+                    Var.switchScreen = Display.GAME_SCREEN;
+                }
                 if (imageCollide(restaB, e) && Var.switchScreen == Display.DEAD){
                     try {
                         Var.petSave.createNewFile();

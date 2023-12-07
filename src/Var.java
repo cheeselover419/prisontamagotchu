@@ -11,6 +11,7 @@ public class Var {
     public static long healthTimer, loveTimer, happinessTimer, hygeneTimer, illnessTimer, deathTimer;
     public static Display switchScreen = Display.HOME_SCREEN;
 
+
     public static long init(){
         return System.currentTimeMillis();
     }

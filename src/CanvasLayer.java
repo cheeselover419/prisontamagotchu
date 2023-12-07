@@ -154,13 +154,12 @@ public class CanvasLayer {
                 g.drawString("Radio", i.x + 40, i.y + 100);
                 g.drawImage(radio, i.x, i.y, null);
             }
-
         }
     }
 
     public void mainMenu(){
         g.setColor(new Color(0,0,0));
-        g.drawString("Welcome to the game!", width /2 - 70, height / 2 - 80);
+        g.drawString("Welcome to the game!", width / 2 - 70, height / 2 - 80);
     }
 
     public void dead(){
