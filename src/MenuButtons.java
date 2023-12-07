@@ -21,6 +21,9 @@ public class MenuButtons {
     }
 
     public void gameParameter(){
-
+        this.x = 200;
+        this.y = 440;
+        this.height = 50;
+        this.width = 50;
     }
 }

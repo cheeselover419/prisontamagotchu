@@ -13,7 +13,7 @@ public class Food {
         this.happinessLvl = 30;
     }
     public void chifir() {
-        this.foodName = "Broccoli";
+        this.foodName = "chifir";
         this.foodValue = 40;
         this.happinessLvl = -10;
     }

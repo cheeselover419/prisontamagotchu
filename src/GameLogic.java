@@ -25,12 +25,20 @@ public class GameLogic {
         chifir.chifir();
         chifir.chifirParameter();
 
+        Games clicker = new Games();
+        clicker.clicker();
+        clicker.clickerParameter();
+        Games radio = new Games();
+        radio.radio();
+        radio.radioParameter();
+
+
         MenuButtons homeB = new MenuButtons();
         homeB.homeParameter();
         MenuButtons cutlB = new MenuButtons();
         cutlB.cutleryParameter();
         MenuButtons gameB = new MenuButtons();
-        gameB.cutleryParameter();
+        gameB.gameParameter();
 
         MenuButtons restaB = new MenuButtons();
         restaB.restartParameter();
@@ -39,6 +47,10 @@ public class GameLogic {
         foodCanvas.add(cigarette);
         foodCanvas.add(soup);
         foodCanvas.add(chifir);
+
+        ArrayList<Games> gamesCanvas = new ArrayList<>();
+        gamesCanvas.add(clicker);
+        gamesCanvas.add(radio);
 
         Pet pet = new Pet("Cutie");
 
@@ -50,7 +62,7 @@ public class GameLogic {
             reloadSave(pet);
         }
 
-        CanvasLayer c = new CanvasLayer(foodCanvas, pet);
+        CanvasLayer c = new CanvasLayer(foodCanvas, gamesCanvas, pet);
 
         c.canvas.addMouseListener(new MouseAdapter() {
             public void mouseClicked(MouseEvent e) {
@@ -66,6 +78,16 @@ public class GameLogic {
                     if (foodCollide(chifir, e)) {
                         pet.moreHappiness(chifir);
                         pet.moreHealth(chifir);
+                    }
+                }
+
+                if (Var.switchScreen == Display.GAME_SCREEN){
+                    if(gameCollide(clicker, e)){
+                        pet.moreHappinessGame(clicker);
+                        pet.moreMoney(clicker);
+                    }
+                    if(gameCollide(radio, e)){
+                        pet.moreHappinessGame(radio);
                     }
                 }
                 if (imageCollide(homeB, e)){
@@ -172,6 +194,11 @@ public class GameLogic {
     public static boolean foodCollide(Food food, MouseEvent mouse) {
         return mouse.getX() > food.x && mouse.getX() < (food.x + food.ovalWidth) &&
                 mouse.getY() > food.y && mouse.getY() < (food.y + food.ovalHeight);
+    }
+
+    public static boolean gameCollide(Games games, MouseEvent mouse){
+        return mouse.getX() > games.x && mouse.getX() < (games.x + games.ovalWidth) &&
+                mouse.getY() > games.y && mouse.getY() < (games.y + games.ovalHeight);
     }
     public static boolean imageCollide(MenuButtons b,MouseEvent mouse){
         return mouse.getX() > b.x && mouse.getX() < (b.x + b.width) &&

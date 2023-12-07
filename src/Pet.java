@@ -113,6 +113,22 @@ public class Pet {
         }
     }
 
+    public void moreHappinessGame(Games g){
+        happinessLvl = happinessLvl + g.happinessLvl;
+
+        if (happinessLvl > 100) {
+            happinessLvl = happinessMax;
+        }
+        if (happinessLvl < 0) {
+            happinessLvl = 0;
+        }
+
+    }
+
+
+    public void moreMoney(Games g){
+        money = money + g.gameValue;
+    }
     public void illness() {
         illTimer = new Timer();
         Var.illnessTimer = Var.init();

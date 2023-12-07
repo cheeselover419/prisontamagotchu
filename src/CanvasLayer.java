@@ -18,7 +18,7 @@ public class CanvasLayer {
     BufferStrategy bufferStrategy;
     BufferedImage cupcake, pizza, broccoli, bg, cutlery, home, restart, games, cursor, radio;
 
-    public CanvasLayer(ArrayList<Food> foodCanvas, Pet name) {
+    public CanvasLayer(ArrayList<Food> foodCanvas, ArrayList<Games> gamesCanvas, Pet name) {
         this.foodCanvas = foodCanvas;
         this.gamesCanvas = gamesCanvas;
         this.name = name;
@@ -47,7 +47,7 @@ public class CanvasLayer {
         mainFrame.setResizable(false);
 
         canvas.setSize(width, height);
-        canvas.setBackground(new Color(126, 146, 203, 255));
+        //canvas.setBackground(new Color(126, 146, 203, 255));
         canvas.setVisible(true);
 
         mainFrame.add(canvas);

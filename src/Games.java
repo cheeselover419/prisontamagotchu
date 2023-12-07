@@ -5,11 +5,14 @@ public class Games {
 
 
     public void clicker(){
-
+        this.gameName = "clicker";
+        this.gameValue = 10;
+        this.happinessLvl = 1;
     }
 
     public void radio(){
-
+        this.gameName = "radio";
+        this.happinessLvl = 5;
     }
 
     public void clickerParameter(){
