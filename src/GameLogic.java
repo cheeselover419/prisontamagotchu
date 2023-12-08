@@ -66,21 +66,28 @@ public class GameLogic {
 
         c.canvas.addMouseListener(new MouseAdapter() {
             public void mouseClicked(MouseEvent e) {
+
                 if (Var.switchScreen == Display.FOOD_SCREEN){
                     if (foodCollide(cigarette, e)) {
-                        pet.moreHappiness(cigarette);
-                        pet.moreHealth(cigarette);
-                        pet.lessMoney(cigarette);
+                        if(pet.lessMoney(cigarette)==true)
+                        {
+                            pet.moreHappiness(cigarette);
+                            pet.moreHealth(cigarette);
+                        }
                     }
                     if (foodCollide(soup, e)) {
-                        pet.moreHappiness(soup);
-                        pet.moreHealth(soup);
-                        pet.lessMoney(soup);
+                        if(pet.lessMoney(soup)==true)
+                        {
+                            pet.moreHappiness(soup);
+                            pet.moreHealth(soup);
+                        }
                     }
                     if (foodCollide(chifir, e)) {
-                        pet.moreHappiness(chifir);
-                        pet.moreHealth(chifir);
-                        pet.lessMoney(chifir);
+                        if(pet.lessMoney(chifir)==true)
+                        {
+                            pet.moreHappiness(chifir);
+                            pet.moreHealth(chifir);
+                        }
                     }
                 }
 

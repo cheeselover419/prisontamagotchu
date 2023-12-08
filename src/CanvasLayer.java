@@ -25,7 +25,7 @@ public class CanvasLayer {
 
 //        filepath to non animated images (food & background)
         try {
-            cupcake = ImageIO.read(new File("src/images/cupcake.png"));
+            cupcake = ImageIO.read(new File("src/images/sigarette.png"));
             pizza = ImageIO.read(new File("src/images/pizza.png"));
             broccoli = ImageIO.read(new File("src/images/broccoli.png"));
             bg = ImageIO.read(new File("src/images/bg.png"));

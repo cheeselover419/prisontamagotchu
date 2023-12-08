@@ -108,12 +108,16 @@ public class Pet {
             healthLvl = 0;
         }
     }
-    public void lessMoney(Food f){
-        money = money - f.foodCost;
+    public boolean lessMoney(Food f){
 
-        if (money < 0) {
-            money = 0;
+
+        if(money>=f.foodCost)
+        {
+            money-=f.foodCost;
+            return true;
         }
+
+        return false;
     }
 
     public void moreHappinessGame(Games g){
