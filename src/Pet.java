@@ -154,7 +154,7 @@ public class Pet {
                     if ((Var.currentTime - Var.illnessTimer) >= 6500) {
                         death();
                     }
-//                    Var.illnessTimer = System.currentTimeMillis(); // bei Impfung.
+//                    Var.illnessTimer = System.currentTimeMillis();
                 }
             }
         }, 0, 60);

@@ -8,7 +8,11 @@ import java.util.ArrayList;
 
 public class CanvasLayer {
     public Pet name;
-    JFrame mainFrame = new JFrame();
+    JFrame mainFrame = new JFrame("Prison Tamagotchu");
+    public void dialogMenu(){
+
+
+    }
     Canvas canvas = new Canvas();
     ArrayList<Food> foodCanvas;
     ArrayList<Games> gamesCanvas;
@@ -16,12 +20,28 @@ public class CanvasLayer {
     int width = 615;
     int height = 635;
     BufferStrategy bufferStrategy;
-    BufferedImage cupcake, pizza, broccoli, bg, cutlery, home, restart, games, cursor, radio, menu;
+    BufferedImage cupcake, pizza, broccoli, bg, cutlery, home, restart, games, cursor, radio;
 
     public CanvasLayer(ArrayList<Food> foodCanvas, ArrayList<Games> gamesCanvas, Pet name) {
         this.foodCanvas = foodCanvas;
         this.gamesCanvas = gamesCanvas;
         this.name = name;
+
+        MenuBar mb = new MenuBar();
+        Menu menu = new Menu("Menu");
+        MenuItem newGame = new MenuItem("New Game");
+
+        MenuItem continueGame = new MenuItem("Continue");
+
+        MenuItem settings = new MenuItem("Settings");
+
+        MenuItem exit = new MenuItem("Exit");
+        menu.add(newGame);
+        menu.add(continueGame);
+        menu.add(settings);
+        menu.addSeparator();
+        menu.add(exit);
+        mb.add(menu);
 
 //        filepath to non animated images (food & background)
         try {
@@ -34,8 +54,8 @@ public class CanvasLayer {
             restart = ImageIO.read(new File("src/images/restart.png"));
             games = ImageIO.read(new File("src/images/gamepad.png"));
             cursor = ImageIO.read(new File("src/images/gamepad.png"));
-            radio = ImageIO.read(new File("src/images/radio.png"));
-            menu = ImageIO.read(new File("src/images/gamepad.png"));
+            radio = ImageIO.read(new File("src/images/gamepad.png"));
+
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -46,6 +66,7 @@ public class CanvasLayer {
         mainFrame.setVisible(true);
         mainFrame.setLocationRelativeTo(null);
         mainFrame.setResizable(false);
+        mainFrame.setMenuBar(mb);
 
         canvas.setSize(width, height);
         //canvas.setBackground(new Color(126, 146, 203, 255));
@@ -161,7 +182,7 @@ public class CanvasLayer {
 
             if (i == gamesCanvas.get(1)){
                 g.drawString("Radio", i.x + 40, i.y + 100);
-                g.drawImage(menu, i.x, i.y, null);
+                g.drawImage(radio, i.x, i.y, null);
             }
         }
     }
