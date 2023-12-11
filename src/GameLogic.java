@@ -52,6 +52,7 @@ public class GameLogic {
         gamesCanvas.add(clicker);
         gamesCanvas.add(radio);
 
+
         Pet pet = new Pet("Cutie");
 
 //        TODO: Bedingung anpassen
@@ -61,6 +62,7 @@ public class GameLogic {
         else {
             reloadSave(pet);
         }
+
 
         CanvasLayer c = new CanvasLayer(foodCanvas, gamesCanvas, pet);
 
