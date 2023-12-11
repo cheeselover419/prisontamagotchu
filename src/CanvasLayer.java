@@ -16,7 +16,7 @@ public class CanvasLayer {
     int width = 615;
     int height = 635;
     BufferStrategy bufferStrategy;
-    BufferedImage cupcake, pizza, broccoli, bg, cutlery, home, restart, games, cursor, radio;
+    BufferedImage cupcake, pizza, broccoli, bg, cutlery, home, restart, games, cursor, radio, menu;
 
     public CanvasLayer(ArrayList<Food> foodCanvas, ArrayList<Games> gamesCanvas, Pet name) {
         this.foodCanvas = foodCanvas;
@@ -33,8 +33,9 @@ public class CanvasLayer {
             home = ImageIO.read(new File("src/images/home.png"));
             restart = ImageIO.read(new File("src/images/restart.png"));
             games = ImageIO.read(new File("src/images/gamepad.png"));
-            cursor = ImageIO.read(new File("src/images/cursor.png"));
+            cursor = ImageIO.read(new File("src/images/gamepad.png"));
             radio = ImageIO.read(new File("src/images/radio.png"));
+            menu = ImageIO.read(new File("src/images/gamepad.png"));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -99,7 +100,7 @@ public class CanvasLayer {
             int rectPos = 350 + i * 11;
             g.drawRect(rectPos, 130, 8, 10);
         }
-        g.setColor(new Color(0,0,0));
+        g.setColor(new Color(255,0,0));
         g.drawString("Money", 290, 160);
         g.drawString(String.valueOf(name.money), 370, 160);
         try {
@@ -115,10 +116,15 @@ public class CanvasLayer {
 
     public void petAnimation() {
         try {
-            g.drawImage(ImageIO.read(new File(name.filePet)), 0, 0, null);
+            g.drawImage(ImageIO.read(new File(name.filePet)), 0, 80, null);
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    public void mainMenu(){
+        g.setColor(new Color(255,255,0));
+        g.drawString("Main Menu", width / 2, height / 2 - 80);
     }
 
     public void feeding() {
@@ -145,7 +151,7 @@ public class CanvasLayer {
     }
 
     public void games(){
-        g.setColor(new Color(0,0,0));
+        g.setColor(new Color(255,255,0));
         g.drawString("What do you want to play?", width / 2 - 70, height / 2 - 80);
         for (Games i : gamesCanvas){
             if (i == gamesCanvas.get(0)) {
@@ -155,26 +161,22 @@ public class CanvasLayer {
 
             if (i == gamesCanvas.get(1)){
                 g.drawString("Radio", i.x + 40, i.y + 100);
-                g.drawImage(radio, i.x, i.y, null);
+                g.drawImage(menu, i.x, i.y, null);
             }
         }
-    }
-
-    public void mainMenu(){
-        g.setColor(new Color(0,0,0));
-        g.drawString("Welcome to the game!", width / 2 - 70, height / 2 - 80);
-    }
-
-    public void dead(){
-        g.setColor(new Color(0, 0, 0));
-        g.drawString("Your pet "+name.name+" died.", 250, 200);
-        g.drawImage(restart, 0, 0, null);
     }
 
     public void noMoney(){
         g.setColor(new Color(255, 255, 0));
         g.drawString("You have no money!", width /2 - 70, height /2 - 70);
     }
+    public void dead(){
+        g.setColor(new Color(255, 255, 0));
+        g.drawString("Your pet "+name.name+" died.", 250, 200);
+        g.drawImage(restart, 0, 0, null);
+    }
+
+
 
     public void buffer() {
         bufferStrategy.show();
