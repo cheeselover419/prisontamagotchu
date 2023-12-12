@@ -1,3 +1,4 @@
+import java.awt.event.ActionEvent;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.io.File;
@@ -8,7 +9,11 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Timer;
 import java.util.TimerTask;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import org.json.JSONObject;
+import javax.swing.JOptionPane;
 
 
 public class GameLogic {
@@ -53,15 +58,64 @@ public class GameLogic {
         gamesCanvas.add(radio);
 
 
-        Pet pet = new Pet("Cutie");
+        Pet pet = new Pet();
 
+
+        int choice = JOptionPane.showOptionDialog(
+                null,
+                "Choose or create a save:",
+                "Start Game",
+                JOptionPane.YES_NO_OPTION,
+                JOptionPane.QUESTION_MESSAGE,
+                null,
+                new Object[]{"Load Save", "New Save"},
+                "Load Save"
+        );
+
+        String selectedSave;
+        if (choice == JOptionPane.YES_OPTION) {
+            // Load an existing save
+            selectedSave = chooseSave();
+            if (selectedSave != null) {
+                Var.petSave = new File("saves", selectedSave + ".json");
+                reloadSave(pet);
+            } else {
+                // Handle the case where no save is selected or created
+                JOptionPane.showMessageDialog(null, "No save selected or created. Exiting.");
+                return;
+            }
+        } else {
+            // Create a new save
+            selectedSave = createNewSave();
+            if (selectedSave != null) {
+                Var.petSave = new File("saves", selectedSave + ".json");
+                // Call createNewCharacter to initialize the pet
+                createNewCharacter(pet);
+            } else {
+                // Handle the case where no new save is created
+                JOptionPane.showMessageDialog(null, "No new save created. Exiting.");
+                return;
+            }
+        }
+
+        if (selectedSave != null) {
+            Var.petSave = new File("saves", selectedSave + ".json");
+
+            reloadSave(pet);
+        } else {
+            // Handle the case where no save is selected or created
+            JOptionPane.showMessageDialog(null, "No save selected or created. Exiting.");
+            return;
+        }
 //        TODO: Bedingung anpassen
-        if(pet.name == ""){
+       /* if(pet.name == ""){
             pet.startValues();
         }
         else {
             reloadSave(pet);
         }
+
+        */
 
 
         CanvasLayer c = new CanvasLayer(foodCanvas, gamesCanvas, pet);
@@ -118,6 +172,7 @@ public class GameLogic {
                         ex.printStackTrace();
                     }
                     pet.startValues();
+                    c.buffer();
                 }
             }
         });
@@ -166,44 +221,148 @@ public class GameLogic {
                     Var.healthTimer = System.currentTimeMillis();
                 }
                 save(pet);
+
             }
         }, 0, 60);
     }
-    public static void save(Pet p){
-        try{
-            String content = new String(Files.readAllBytes(Paths.get(Var.petSave.toURI())), "UTF-8");
-            JSONObject json = new JSONObject(content);
 
+    private static String chooseSave() {
+        File savesDirectory = new File("saves");
+        if (savesDirectory.exists() && savesDirectory.isDirectory()) {
+            File[] saveFiles = savesDirectory.listFiles();
+            if (saveFiles != null && saveFiles.length > 0) {
+                File selectedFile = (File) JOptionPane.showInputDialog(
+                        null,
+                        "Choose a save to load:",
+                        "Load Save",
+                        JOptionPane.QUESTION_MESSAGE,
+                        null,
+                        saveFiles,
+                        saveFiles[0]
+                );
+
+                if (selectedFile != null) {
+                    Var.petSave = selectedFile;
+                    return selectedFile.getName().replaceFirst("[.][^.]+$", "");
+                }
+            }
+        }
+        return null; // No existing saves found
+    }
+
+
+
+
+
+
+    private static String createNewSave() {
+        String saveName = JOptionPane.showInputDialog("Enter a name for the new save:");
+        if (saveName != null && !saveName.isEmpty()) {
+            try {
+                File savesDirectory = new File("saves");
+                if (!savesDirectory.exists()) {
+                    savesDirectory.mkdir();
+                }
+
+                Var.petSave = new File(savesDirectory, saveName + ".json");
+                Var.petSave.createNewFile();
+
+                return saveName;
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        } else {
+            JOptionPane.showMessageDialog(null, "Please enter a valid name. Exiting.");
+        }
+        return null;
+    }
+
+
+
+
+    private static void createNewCharacter(Pet pet) {
+        String petName = JOptionPane.showInputDialog("Enter your pet's name:");
+        if (petName != null && !petName.isEmpty()) {
+            pet.name = petName;
+        } else {
+            // Handle the case where the user cancels or enters an empty name
+            JOptionPane.showMessageDialog(null, "Please enter a valid name.");
+            createNewCharacter(pet); // Retry creating a new character
+            return;
+        }
+
+        // Initialize the character's attributes and save to file
+        pet.startValues();
+        save(pet);
+    }
+
+    public static void save(Pet p) {
+        try {
+            JSONObject json = new JSONObject();
             json.put("name", p.name);
             json.put("loveLvl", p.loveLvl);
             json.put("health", p.healthLvl);
             json.put("happiness", p.happinessLvl);
             json.put("money", p.money);
 
+            // Convert JSONObject to a formatted string
+            String jsonString = json.toString(2);
+
+            // Write the string to the file
             FileWriter fw = new FileWriter(Var.petSave);
-            fw.write(json.toString());
+            fw.write(jsonString);
             fw.flush();
             fw.close();
-        }
-        catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
-    public static void reloadSave(Pet p){
-        try{
-            String content = Files.readString(Paths.get(Var.petSave.toURI()));
-            JSONObject json = new JSONObject(content);
 
-            p.name = (String)json.get("name");
-            p.loveLvl = json.getInt("loveLvl");
-            p.healthLvl = json.getInt("health");
-            p.happinessLvl = json.getInt("happiness");
-            p.money = json.getInt("money");
-        }
-        catch (Exception e){
+    public static void reloadSave(Pet p) {
+        try {
+            String content = Files.readString(Paths.get(Var.petSave.toURI()));
+
+            if (!content.isEmpty()) {
+                JSONObject json = new JSONObject(content);
+
+                p.name = json.optString("name", "");
+                p.loveLvl = json.optInt("loveLvl", 0);
+                p.healthLvl = json.optInt("health", 0);
+                p.happinessLvl = json.optInt("happiness", 0);
+                p.money = json.optInt("money", 0);
+            }
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
+
+    public static void startNewGame(Pet pet, CanvasLayer canvasLayer) {
+        String petName = JOptionPane.showInputDialog("Enter your pet's name:");
+        if (petName != null && !petName.isEmpty()) {
+            pet.name = petName;
+        } else {
+            // Handle the case where the user cancels or enters an empty name
+            // You can add additional logic here as needed
+            return;
+        }
+
+        // Add logic to reset the game state for a new game
+        pet.startValues();
+        canvasLayer.buffer();
+    }
+
+    public static void restartGame(Pet pet, CanvasLayer canvasLayer) {
+        // Add logic to restart the game state
+        try {
+            Var.petSave.createNewFile();
+        } catch (IOException ex) {
+            ex.printStackTrace();
+        }
+        pet.startValues();
+        canvasLayer.buffer();
+    }
+
+
     public static boolean foodCollide(Food food, MouseEvent mouse) {
         return mouse.getX() > food.x && mouse.getX() < (food.x + food.ovalWidth) &&
                 mouse.getY() > food.y && mouse.getY() < (food.y + food.ovalHeight);
@@ -218,6 +377,8 @@ public class GameLogic {
                 mouse.getY() > b.y && mouse.getY() < (b.y + b.height);
 
     }
+
+
 }
 
 
