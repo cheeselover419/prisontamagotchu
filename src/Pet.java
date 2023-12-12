@@ -25,6 +25,9 @@ public class Pet {
         }, 0, 600);
     }
 
+    public Pet(){
+        this.name = "Defaul Name";
+    }
     public Pet(String name) {
         this.name = name;
         this.happinessMax = 100;

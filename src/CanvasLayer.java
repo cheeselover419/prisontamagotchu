@@ -8,13 +8,12 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class CanvasLayer {
+public class CanvasLayer implements ActionListener {
     public Pet name;
+
+    GameLogic gl = new GameLogic();
     JFrame mainFrame = new JFrame("Prison Tamagotchu");
-    public void dialogMenu(){
 
-
-    }
     Canvas canvas = new Canvas();
     ArrayList<Food> foodCanvas;
     ArrayList<Games> gamesCanvas;
@@ -23,11 +22,40 @@ public class CanvasLayer {
     int height = 635;
     BufferStrategy bufferStrategy;
     BufferedImage cupcake, pizza, broccoli, bg, cutlery, home, restart, games, cursor, radio;
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        String command = e.getActionCommand();
+
+        switch (command) {
+            case "New":
+                GameLogic.startNewGame(name, this);
+                break;
+            case "Continue":
+                // Handle Continue action
+                break;
+            case "Restart":
+                GameLogic.restartGame(name, this);
+                break;
+            case "Exit":
+                // Handle Exit action
+                System.exit(0);
+                break;
+            case "eng":
+                // Handle English language action
+                break;
+            case "rus":
+                // Handle Russian language action
+                break;
+            // Add more cases as needed
+        }
+    }
 
     public CanvasLayer(ArrayList<Food> foodCanvas, ArrayList<Games> gamesCanvas, Pet name) {
         this.foodCanvas = foodCanvas;
         this.gamesCanvas = gamesCanvas;
         this.name = name;
+
+
 
         MenuBar mb = new MenuBar();
         Menu menu = new Menu("File");
@@ -41,7 +69,7 @@ public class CanvasLayer {
         MenuItem rusLang = new MenuItem("Русский");
         rusLang.setActionCommand("rus");
         language.setActionCommand("Language");
-        MenuItem restart = new MenuItem("Restart");
+        MenuItem restart = new MenuItem("Restart", new MenuShortcut(KeyEvent.VK_R));
         restart.setActionCommand("Restart");
         MenuItem exit = new MenuItem("Exit");
         exit.setActionCommand("Exit");
@@ -56,6 +84,13 @@ public class CanvasLayer {
         menu.addSeparator();
         menu.add(exit);
         mb.add(menu);
+
+        newGame.addActionListener(this);
+        continueGame.addActionListener(this);
+        restart.addActionListener(this);
+        exit.addActionListener(this);
+        engLang.addActionListener(this);
+        rusLang.addActionListener(this);
 
 //        filepath to non animated images (food & background)
         try {
@@ -111,6 +146,9 @@ public class CanvasLayer {
     }
 
     public void petStats() {
+        g.setColor(new Color(255, 255, 255));
+        g.setFont(new Font("Arial", Font.BOLD, 16));
+        g.drawString("Name: " + name.name, 290, 100);
 
         g.setColor(new Color(0, 0, 0, 119));
         g.drawString("Health", 291, 121);
