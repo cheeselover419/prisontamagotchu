@@ -1,6 +1,8 @@
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.*;
+import java.awt.event.ActionListener;
 import java.awt.image.*;
 import java.io.File;
 import java.io.IOException;
@@ -28,17 +30,29 @@ public class CanvasLayer {
         this.name = name;
 
         MenuBar mb = new MenuBar();
-        Menu menu = new Menu("Menu");
-        MenuItem newGame = new MenuItem("New Game");
-
+        Menu menu = new Menu("File");
+        Menu language = new Menu("Language");
+        MenuItem newGame = new MenuItem("New Game", new MenuShortcut(KeyEvent.VK_N));
+        newGame.setActionCommand("New");
         MenuItem continueGame = new MenuItem("Continue");
-
-        MenuItem settings = new MenuItem("Settings");
-
+        continueGame.setActionCommand("Continue");
+        MenuItem engLang = new MenuItem("English");
+        engLang.setActionCommand("eng");
+        MenuItem rusLang = new MenuItem("Русский");
+        rusLang.setActionCommand("rus");
+        language.setActionCommand("Language");
+        MenuItem restart = new MenuItem("Restart");
+        restart.setActionCommand("Restart");
         MenuItem exit = new MenuItem("Exit");
+        exit.setActionCommand("Exit");
+
         menu.add(newGame);
         menu.add(continueGame);
-        menu.add(settings);
+        menu.add(restart);
+        menu.addSeparator();
+        language.add(engLang);
+        language.add(rusLang);
+        menu.add(language);
         menu.addSeparator();
         menu.add(exit);
         mb.add(menu);
@@ -51,7 +65,7 @@ public class CanvasLayer {
             bg = ImageIO.read(new File("src/images/bg.png"));
             cutlery = ImageIO.read(new File("src/images/cutlery.png"));
             home = ImageIO.read(new File("src/images/home.png"));
-            restart = ImageIO.read(new File("src/images/restart.png"));
+            //restart = ImageIO.read(new File("src/images/restart.png"));
             games = ImageIO.read(new File("src/images/gamepad.png"));
             cursor = ImageIO.read(new File("src/images/gamepad.png"));
             radio = ImageIO.read(new File("src/images/gamepad.png"));
