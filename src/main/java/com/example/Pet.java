@@ -4,7 +4,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class Pet {
-    int happinessLvl, healthLvl, happinessMax, healthMax, loveLvl, money;
+    int happinessLvl, healthLvl, happinessMax = 100, healthMax = 100, loveLvl = 100, money;
     String name;
     String[] petFile = {"p1", "p2", "p3"};
     String filePet = "src/images/pet/" + petFile[Var.animationPetFileInt] + ".png";
@@ -34,6 +34,9 @@ public class Pet {
         this.name = name;
         this.happinessMax = 100;
         this.healthMax = 100;
+    }
+    public String getName() {
+        return name;
     }
 
     public void startValues() {

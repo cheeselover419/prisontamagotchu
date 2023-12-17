@@ -28,12 +28,16 @@ import java.io.FileInputStream;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 
 public class GameLogic {
+    private static final Scanner scanner = new Scanner(System.in);
     private static final Logger logger = LogManager.getLogger(GameLogic.class);
 
     public static void main(String[] args) {
@@ -49,6 +53,7 @@ public class GameLogic {
         Food chifir = new Food();
         chifir.chifir();
         chifir.chifirParameter();
+
 
         Games clicker = new Games();
         clicker.clicker();
@@ -77,12 +82,12 @@ public class GameLogic {
         gamesCanvas.add(clicker);
         gamesCanvas.add(radio);
 
-
         Pet pet = new Pet();
+
 
         Runtime.getRuntime().addShutdownHook(new Thread(() -> {
             // Код, выполняемый при закрытии программы
-            writeToExcelOnExit(pet);
+            writeToExcelOnExit(pet.getName());
         }));
         int choice = JOptionPane.showOptionDialog(
                 null,
@@ -262,6 +267,9 @@ public class GameLogic {
                     pet.petHappiness();
                     Var.healthTimer = System.currentTimeMillis();
                 }
+                //TODO: нужно сделать норм сохранение питомца, чтобы не было 2 сохранения(одно которое сохраняется прям при создании) и вот это которое сохраняется по хакрыют игры(нужно оставить только это)
+                // и нужно сделать так, чтобы имя сохранения было такое же как и имя персонажа(т.е. если есть какие то запрещенные символы в имене(все кроме букв) они заменяются звездочками
+                //нужно реализовать тут так же сохранение, чтобы оно было со звездочками
                 save(pet);
 
             }
@@ -302,25 +310,31 @@ public class GameLogic {
 
 
     private static String createNewSave() {
-        String saveName = JOptionPane.showInputDialog("Enter a name for the new save:");
-        if (saveName != null && !saveName.isEmpty()) {
-            try {
-                File savesDirectory = new File("saves");
-                if (!savesDirectory.exists()) {
-                    savesDirectory.mkdir();
-                }
+        String saveName;
+        boolean validInput = false;
 
-                Var.petSave = new File(savesDirectory, saveName + ".json");
-                Var.petSave.createNewFile();
-
-                return saveName;
-            } catch (IOException e) {
-                e.printStackTrace();
+        do {
+            saveName = JOptionPane.showInputDialog("Enter a name for the new save:");
+            if (saveName != null && !saveName.isEmpty() && saveName.matches("^[\\p{Alnum}]+$")) {
+                validInput = true;
+            } else {
+                JOptionPane.showMessageDialog(null, "Please enter a valid name (only letters and digits).");
             }
-        } else {
-            JOptionPane.showMessageDialog(null, "Please enter a valid name. Exiting.");
+        } while (!validInput);
+
+        try {
+            File savesDirectory = new File("saves");
+            if (!savesDirectory.exists()) {
+                savesDirectory.mkdir();
+            }
+
+            Var.petSave = new File(savesDirectory, saveName + ".json");
+            Var.petSave.createNewFile();
+
+            return saveName;
+        } catch (IOException e) {
+            e.printStackTrace();
         }
-        logger.info("Inside createNewSave");
 
         return null;
     }
@@ -328,18 +342,21 @@ public class GameLogic {
 
 
 
+
     private static void createNewCharacter(Pet pet) {
-        String petName = JOptionPane.showInputDialog("Enter your pet's name:");
-        if (petName != null && !petName.isEmpty()) {
-            pet.name = petName;
+
+        String petSaveName = JOptionPane.showInputDialog("Enter a name for the new save:");
+        if (petSaveName != null && !petSaveName.isEmpty()) {
+            // Обработка текста с использованием TextProcessor
+            String processedName = TextProcessor.processText(petSaveName);
+            Var.petSave = new File("saves", processedName + ".json");
+            pet.name = processedName;  // Обновляем имя персонажа
         } else {
             // Handle the case where the user cancels or enters an empty name
-            JOptionPane.showMessageDialog(null, "Please enter a valid name.");
-            createNewCharacter(pet); // Retry creating a new character
+            JOptionPane.showMessageDialog(null, "Please enter a valid name. Exiting.");
             return;
         }
 
-        // Initialize the character's attributes and save to file
         pet.startValues();
         save(pet);
         logger.info("Inside createNewCharacter");
@@ -388,54 +405,53 @@ public class GameLogic {
         logger.info("Inside reloadSave");
 
     }
-    private static void writeToExcelOnExit(Pet p) {
+    private static void writeToExcelOnExit(String petName) {
         try {
-            String fileName = p.name.replace(" ", "_") + "_GameLog.xlsx";
-            File excelFile = new File("saves", fileName);
+            String folderName = "excel_saves";
+            File folder = new File(folderName);
+
+            if (!folder.exists()) {
+                folder.mkdir();
+            }
+
+            String fileName = petName.replaceAll("\\s", "_") + "_GameLog.xlsx";
+            File excelFile = new File(folder, fileName);
             XSSFWorkbook workbook;
 
             if (excelFile.exists()) {
-                // Если файл существует, загружаем существующий workbook
                 FileInputStream fis = new FileInputStream(excelFile);
                 workbook = new XSSFWorkbook(fis);
                 fis.close();
             } else {
-                // Если файл не существует, создаем новый workbook
                 workbook = new XSSFWorkbook();
             }
 
-            // Создаем новый лист
             Sheet sheet = workbook.getSheet("PetData");
             if (sheet == null) {
                 sheet = workbook.createSheet("PetData");
             }
 
-            // Получаем текущую дату и время
             SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
             String currentTime = dateFormat.format(new Date());
 
-            // Создаем строку с данными
             Row row = sheet.createRow(sheet.getLastRowNum() + 1);
             row.createCell(0).setCellValue(currentTime);
-            row.createCell(1).setCellValue(p.name);
-            row.createCell(2).setCellValue(p.loveLvl);
-            row.createCell(3).setCellValue(p.healthLvl);
-            row.createCell(4).setCellValue(p.happinessLvl);
-            row.createCell(5).setCellValue(p.money);
+            row.createCell(1).setCellValue(petName);
 
-            // Записываем книгу Excel в файл
             try (FileOutputStream fileOut = new FileOutputStream(excelFile)) {
                 workbook.write(fileOut);
             }
 
-            // Закрываем книгу Excel
             workbook.close();
+            logger.info("Inside writeToExcelOnExit");
+
         } catch (Exception e) {
             e.printStackTrace();
+            logger.error("Error in writeToExcelOnExit", e);
         }
-        logger.info("Inside writetoexcel");
-
     }
+
+
     public static void startNewGame(Pet pet, CanvasLayer canvasLayer) {
         String petName = JOptionPane.showInputDialog("Enter your pet's name:");
         if (petName != null && !petName.isEmpty()) {
