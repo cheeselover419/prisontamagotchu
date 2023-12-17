@@ -26,14 +26,20 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileInputStream;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 
 public class GameLogic {
+    private static final Logger logger = LogManager.getLogger(GameLogic.class);
 
     public static void main(String[] args) {
+        configureLogger();
 
+        logger.info("Application started");
         Food cigarette = new Food();
         cigarette.cigarette();
         cigarette.cigaretteParameter();
@@ -146,6 +152,8 @@ public class GameLogic {
                         {
                             pet.moreHappiness(cigarette);
                             pet.moreHealth(cigarette);
+                            logger.info("pressed cigarette");
+
                         }
                     }
                     if (foodCollide(soup, e)) {
@@ -153,6 +161,8 @@ public class GameLogic {
                         {
                             pet.moreHappiness(soup);
                             pet.moreHealth(soup);
+                            logger.info("pressed soup");
+
                         }
                     }
                     if (foodCollide(chifir, e)) {
@@ -160,6 +170,8 @@ public class GameLogic {
                         {
                             pet.moreHappiness(chifir);
                             pet.moreHealth(chifir);
+                            logger.info("pressed chifir");
+
                         }
                     }
                 }
@@ -168,10 +180,15 @@ public class GameLogic {
                     if(gameCollide(clicker, e)){
                         pet.moreHappinessGame(clicker);
                         pet.moreMoney(clicker);
+                        logger.info("pressed clicker");
+
                     }
                     if(gameCollide(radio, e)){
                         pet.moreHappinessGame(radio);
+                        logger.info("pressed radio");
+
                     }
+
                 }
                 if (imageCollide(homeB, e)){
                     Var.switchScreen = Display.HOME_SCREEN;
@@ -205,18 +222,26 @@ public class GameLogic {
                 c.basicLayer();
                 if (Var.switchScreen != Display.DEAD){
                     c.petStats();
+                    logger.info("switch screen");
+
                 }
                 if (Var.switchScreen == Display.FOOD_SCREEN){
                     c.feeding();
+                    logger.info("switch screen feeding");
+
                 }
                 if (Var.switchScreen == Display.HOME_SCREEN){
                     c.petAnimation();
                 }
                 if (Var.switchScreen == Display.GAME_SCREEN){
                     c.games();
+                    logger.info("switch screen games");
+
                 }
                 if (Var.switchScreen == Display.DEAD){
                     c.dead();
+                    logger.info("switch screen dead");
+
                 }
                 if(pet.money == 0){
                     c.noMoney();
@@ -241,6 +266,8 @@ public class GameLogic {
 
             }
         }, 0, 60);
+        logger.info("Application exiting");
+
     }
 
     private static String chooseSave() {
@@ -264,6 +291,8 @@ public class GameLogic {
                 }
             }
         }
+        logger.info("Inside chooseSave");
+
         return null; // No existing saves found
     }
 
@@ -291,6 +320,8 @@ public class GameLogic {
         } else {
             JOptionPane.showMessageDialog(null, "Please enter a valid name. Exiting.");
         }
+        logger.info("Inside createNewSave");
+
         return null;
     }
 
@@ -311,6 +342,8 @@ public class GameLogic {
         // Initialize the character's attributes and save to file
         pet.startValues();
         save(pet);
+        logger.info("Inside createNewCharacter");
+
     }
 
     public static void save(Pet p) {
@@ -333,6 +366,7 @@ public class GameLogic {
         } catch (Exception e) {
             e.printStackTrace();
         }
+
     }
 
     public static void reloadSave(Pet p) {
@@ -351,6 +385,8 @@ public class GameLogic {
         } catch (Exception e) {
             e.printStackTrace();
         }
+        logger.info("Inside reloadSave");
+
     }
     private static void writeToExcelOnExit(Pet p) {
         try {
@@ -397,6 +433,8 @@ public class GameLogic {
         } catch (Exception e) {
             e.printStackTrace();
         }
+        logger.info("Inside writetoexcel");
+
     }
     public static void startNewGame(Pet pet, CanvasLayer canvasLayer) {
         String petName = JOptionPane.showInputDialog("Enter your pet's name:");
@@ -411,6 +449,8 @@ public class GameLogic {
         // Add logic to reset the game state for a new game
         pet.startValues();
         canvasLayer.buffer();
+        logger.info("Inside startnewgame");
+
     }
 
     public static void restartGame(Pet pet, CanvasLayer canvasLayer) {
@@ -422,6 +462,8 @@ public class GameLogic {
         }
         pet.startValues();
         canvasLayer.buffer();
+        logger.info("Inside restartgame");
+
     }
 
 
@@ -441,6 +483,11 @@ public class GameLogic {
     }
 
 
+    private static void configureLogger() {
+        // Можете добавить свои настройки логгера здесь
+        // Например, LogManager.setFactory() или установить конфигурацию программно
+        // Но в данном случае, логгер будет настроен согласно файлу log4j2.xml
+    }
 }
 
 
