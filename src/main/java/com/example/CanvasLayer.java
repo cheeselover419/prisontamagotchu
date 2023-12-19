@@ -9,6 +9,11 @@ import java.awt.image.*;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Locale;
+import java.text.MessageFormat;
+import java.awt.MenuItem;
+
+import java.util.ResourceBundle;
 
 public class CanvasLayer implements ActionListener {
     public Pet name;
@@ -23,7 +28,16 @@ public class CanvasLayer implements ActionListener {
     int width = 615;
     int height = 635;
     BufferStrategy bufferStrategy;
-    BufferedImage cupcake, pizza, broccoli, bg, cutlery, home, restart, games, cursor, radio;
+    private MenuItem newGame;
+    private MenuItem continueGame;
+    private MenuItem engLang;
+    private MenuItem rusLang;
+    private MenuItem exit;
+    private MenuItem restart;
+
+    BufferedImage cupcake, pizza, broccoli, bg, cutlery, home, games, cursor, radio;
+
+    private ResourceBundle messages;
     @Override
     public void actionPerformed(ActionEvent e) {
         String command = e.getActionCommand();
@@ -43,10 +57,12 @@ public class CanvasLayer implements ActionListener {
                 System.exit(0);
                 break;
             case "eng":
-                // Handle English language action
+                messages = ResourceBundle.getBundle("Messages", Locale.ENGLISH);
+                updateUI();
                 break;
             case "rus":
-                // Handle Russian language action
+                messages = ResourceBundle.getBundle("Messages", new Locale("ru", "RU"));
+                updateUI();
                 break;
             // Add more cases as needed
         }
@@ -57,42 +73,49 @@ public class CanvasLayer implements ActionListener {
         this.gamesCanvas = gamesCanvas;
         this.name = name;
 
-
-
         MenuBar mb = new MenuBar();
-        Menu menu = new Menu("File");
-        Menu language = new Menu("Language");
-        MenuItem newGame = new MenuItem("New Game", new MenuShortcut(KeyEvent.VK_N));
-        newGame.setActionCommand("New");
-        MenuItem continueGame = new MenuItem("Continue");
-        continueGame.setActionCommand("Continue");
-        MenuItem engLang = new MenuItem("English");
-        engLang.setActionCommand("eng");
-        MenuItem rusLang = new MenuItem("Русский");
-        rusLang.setActionCommand("rus");
-        language.setActionCommand("Language");
-        MenuItem restart = new MenuItem("Restart", new MenuShortcut(KeyEvent.VK_R));
-        restart.setActionCommand("Restart");
-        MenuItem exit = new MenuItem("Exit");
-        exit.setActionCommand("Exit");
+        mainFrame.setMenuBar(mb);
+        messages = ResourceBundle.getBundle("Messages", Locale.getDefault());
 
+
+        Menu menu = new Menu(messages.getString("fileMenuLabel"));
+
+        newGame = new MenuItem(messages.getString("newGameMenuItemLabel"));
+        newGame.setActionCommand("New");
+        newGame.addActionListener(this);
+
+        continueGame = new MenuItem(messages.getString("continueMenuItemLabel"));
+        continueGame.setActionCommand("Continue");
+        continueGame.addActionListener(this);
+
+        restart = new MenuItem(messages.getString("restartMenuItemLabel"));
+        restart.setActionCommand("Restart");
+        restart.addActionListener(this);
+
+        exit = new MenuItem(messages.getString("exitMenuItemLabel"));
+        exit.setActionCommand("Exit");
+        exit.addActionListener(this);
+
+        Menu language = new Menu(messages.getString("languageMenuLabel"));
+        engLang = new MenuItem(messages.getString("englishMenuItemLabel"));
+        engLang.setActionCommand("eng");
+        engLang.addActionListener(this);
+
+        rusLang = new MenuItem(messages.getString("russianMenuItemLabel"));
+        rusLang.setActionCommand("rus");
+        rusLang.addActionListener(this);
+
+        language.add(engLang);
+        language.add(rusLang);
         menu.add(newGame);
         menu.add(continueGame);
         menu.add(restart);
         menu.addSeparator();
-        language.add(engLang);
-        language.add(rusLang);
         menu.add(language);
         menu.addSeparator();
         menu.add(exit);
-        mb.add(menu);
 
-        newGame.addActionListener(this);
-        continueGame.addActionListener(this);
-        restart.addActionListener(this);
-        exit.addActionListener(this);
-        engLang.addActionListener(this);
-        rusLang.addActionListener(this);
+        mb.add(menu);
 
 //        filepath to non animated images (food & background)
         try {
@@ -117,7 +140,6 @@ public class CanvasLayer implements ActionListener {
         mainFrame.setVisible(true);
         mainFrame.setLocationRelativeTo(null);
         mainFrame.setResizable(false);
-        mainFrame.setMenuBar(mb);
 
         canvas.setSize(width, height);
         //canvas.setBackground(new Color(126, 146, 203, 255));
@@ -150,10 +172,10 @@ public class CanvasLayer implements ActionListener {
     public void petStats() {
         g.setColor(new Color(255, 255, 255));
         g.setFont(new Font("Arial", Font.BOLD, 16));
-        g.drawString("Name: " + name.name, 290, 100);
+        g.drawString(messages.getString("nameLabel") + " " + name.name, 290, 100);
 
         g.setColor(new Color(0, 0, 0, 119));
-        g.drawString("Health", 291, 121);
+        g.drawString("Healths", 291, 121);
         for (int i = 1; i <= name.healthLvl / 10; i++) {
             int rectPos = 351 + i * 11;
             g.drawRect(rectPos, 111, 8, 10);
@@ -164,19 +186,19 @@ public class CanvasLayer implements ActionListener {
             g.drawRect(rectPos, 131, 8, 10);
         }
         g.setColor(new Color(0, 255, 69, 255));
-        g.drawString("Health", 290, 120);
+        g.drawString(messages.getString("healthLabel"), 290, 120);
         for (int i = 1; i <= name.healthLvl / 10; i++) {
             int rectPos = 350 + i * 11;
             g.drawRect(rectPos, 110, 8, 10);
         }
         g.setColor(new Color(255, 221, 0));
-        g.drawString("Happiness", 285, 140);
+        g.drawString(messages.getString("happinessLabel"), 285, 140);
         for (int i = 1; i <= name.happinessLvl / 10; i++) {
             int rectPos = 350 + i * 11;
             g.drawRect(rectPos, 130, 8, 10);
         }
         g.setColor(new Color(255,0,0));
-        g.drawString("Money", 290, 160);
+        g.drawString(messages.getString("moneyLabel"), 290, 160);
         g.drawString(String.valueOf(name.money), 370, 160);
         try {
             if (name.loveLvl < 100) {
@@ -203,55 +225,84 @@ public class CanvasLayer implements ActionListener {
     }
 
     public void feeding() {
-
         g.setColor(new Color(255, 255, 0));
-        g.drawString("What do you want to feed?", width / 2 - 70, height / 2 - 80);
+        g.drawString(messages.getString("feedPrompt"), width / 2 - 70, height / 2 - 80);
+
         for (Food i : foodCanvas) {
             if (i == foodCanvas.get(0)) {
-                g.drawString("Ciggarete", i.x + 30, i.y + 100);
+                g.drawString(messages.getString("cigarette"), i.x + 30, i.y + 100);
                 g.drawImage(cupcake, i.x, i.y, null);
                 g.drawString("10 $", i.x + 40, i.y + 120);
             }
             if (i == foodCanvas.get(1)) {
-                g.drawString("Pizza", i.x + 40, i.y + 100);
+                g.drawString(messages.getString("pizza"), i.x + 40, i.y + 100);
                 g.drawImage(pizza, i.x, i.y, null);
                 g.drawString("30 $", i.x + 40, i.y + 120);
             }
             if (i == foodCanvas.get(2)) {
-                g.drawString("Broccoli", i.x + 30, i.y + 100);
+                g.drawString(messages.getString("broccoli"), i.x + 30, i.y + 100);
                 g.drawImage(broccoli, i.x, i.y, null);
                 g.drawString("30 $", i.x + 40, i.y + 120);
             }
         }
     }
 
-    public void games(){
-        g.setColor(new Color(255,255,0));
-        g.drawString("What do you want to play?", width / 2 - 70, height / 2 - 80);
-        for (Games i : gamesCanvas){
+    public void games() {
+        g.setColor(new Color(255, 255, 0));
+        g.drawString(messages.getString("gamesPrompt"), width / 2 - 70, height / 2 - 80);
+
+        for (Games i : gamesCanvas) {
             if (i == gamesCanvas.get(0)) {
-                g.drawString("Clicker", i.x + 30, i.y + 100);
+                g.drawString(messages.getString("clickerGame"), i.x + 30, i.y + 100);
                 g.drawImage(cursor, i.x, i.y, null);
             }
 
-            if (i == gamesCanvas.get(1)){
-                g.drawString("Radio", i.x + 40, i.y + 100);
+            if (i == gamesCanvas.get(1)) {
+                g.drawString(messages.getString("radioGame"), i.x + 40, i.y + 100);
                 g.drawImage(radio, i.x, i.y, null);
             }
         }
     }
 
-    public void noMoney(){
+    public void noMoney() {
         g.setColor(new Color(255, 255, 0));
-        g.drawString("You have no money!", width /2 - 70, height /2 - 70);
-    }
-    public void dead(){
-        g.setColor(new Color(255, 255, 0));
-        g.drawString("Your pet "+name.name+" died.", 250, 200);
-        g.drawImage(restart, 0, 0, null);
+        g.drawString(messages.getString("noMoney"), width / 2 - 70, height / 2 - 70);
     }
 
+    public void dead() {
+        g.setColor(new Color(255, 255, 0));
+        g.drawString(MessageFormat.format(messages.getString("petDied"), name.name), 250, 200);
+        //g.drawImage(restart, 0, 0, null);
+    }
+    private void updateUI() {
+        // Update UI elements with localized text
+        mainFrame.setTitle(messages.getString("mainMenu"));
+        MenuBar mb = mainFrame.getMenuBar();
+        Menu menu = mb.getMenu(0);
+        menu.setLabel(messages.getString("fileMenuLabel"));
 
+        MenuItem newGame = menu.getItem(0);
+        newGame.setLabel(messages.getString("newGameMenuItemLabel"));
+
+        MenuItem continueGame = menu.getItem(1);
+        continueGame.setLabel(messages.getString("continueMenuItemLabel"));
+
+        MenuItem restart = menu.getItem(2);
+        restart.setLabel(messages.getString("restartMenuItemLabel"));
+
+        MenuItem exit = menu.getItem(3);
+        exit.setLabel(messages.getString("exitMenuItemLabel"));
+
+        Menu language = new Menu(messages.getString("languageMenuLabel"));
+        engLang = new MenuItem(messages.getString("englishMenuItemLabel"));
+        engLang.setActionCommand("eng");
+        engLang.addActionListener(this);
+
+        rusLang = new MenuItem(messages.getString("russianMenuItemLabel"));
+        rusLang.setActionCommand("rus");
+        rusLang.addActionListener(this);
+
+    }
 
     public void buffer() {
         bufferStrategy.show();
