@@ -1,0 +1,2771 @@
+15:27:33.257 [main] INFO  com.example.GameLogic - Application started
+15:27:36.106 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:27:36.107 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:27:36.156 [main] INFO  com.example.GameLogic - Application exiting
+15:27:36.164 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.219 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.284 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.349 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.413 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.475 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.540 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.601 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.666 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.731 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.796 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.861 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.923 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:36.988 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.053 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.114 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.175 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.240 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.303 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.369 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.429 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.495 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.560 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.625 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.691 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.756 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.820 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.880 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:37.945 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:38.010 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:38.075 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:38.136 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:38.201 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:38.265 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:38.327 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:38.392 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:27:38.457 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:07.144 [main] INFO  com.example.GameLogic - Application started
+15:28:09.335 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:28:09.335 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:28:09.382 [main] INFO  com.example.GameLogic - Application exiting
+15:28:09.390 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:09.449 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:09.510 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:09.574 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:09.640 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:09.704 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:09.770 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:09.834 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:09.899 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:09.965 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.029 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.094 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.155 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.221 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.286 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.349 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.414 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.478 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.543 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.607 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.672 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.737 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.801 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.861 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.927 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:10.987 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.052 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.113 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.179 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.243 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.308 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.373 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.438 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.503 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.565 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.629 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.695 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.760 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.824 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.889 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:11.954 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.020 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.081 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.142 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.207 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.269 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.334 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.399 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.460 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.525 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.597 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.648 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.716 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.779 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.844 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.905 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:12.970 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.035 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.097 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.161 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.226 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.291 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.356 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.421 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.486 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.551 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.612 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.677 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.741 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.806 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.867 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.931 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:13.993 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.058 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.122 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.187 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.253 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.318 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.379 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.444 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.509 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.574 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.639 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.704 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.769 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.834 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.899 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:14.961 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.022 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.086 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.148 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.213 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.272 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.336 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.402 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.466 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.527 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.593 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.653 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.717 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.778 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.843 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.908 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:15.973 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.038 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.103 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.168 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.229 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.294 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.355 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.430 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.486 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.555 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.619 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.682 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.744 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.805 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.869 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.929 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:16.990 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.058 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.123 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.182 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.246 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.311 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.371 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.436 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.498 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.563 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.628 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.689 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.754 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.819 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.884 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:17.950 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.010 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.071 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.137 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.203 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.265 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.331 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.396 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.462 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.521 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.583 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.648 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.710 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.775 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.840 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.908 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:18.975 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.029 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.094 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.159 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.231 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.292 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.352 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.416 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.480 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.543 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.608 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.678 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.734 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.794 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.862 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.927 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:19.989 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.054 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.119 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.182 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.248 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.304 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.369 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.430 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.495 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.560 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.627 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.687 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.750 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.819 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.884 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:20.940 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.006 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.069 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.134 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.199 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.266 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.326 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.395 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.478 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.547 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.604 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.668 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.732 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.803 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.861 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.926 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:21.992 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.056 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.122 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.191 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.244 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.303 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.367 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.428 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.493 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.563 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.626 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.700 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.753 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.820 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.882 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:22.944 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.005 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.066 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.130 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.191 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.252 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.317 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.381 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.445 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.510 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.576 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.640 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.704 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.768 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.830 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.894 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:23.960 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.023 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.087 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.152 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.217 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.279 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.342 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.405 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.467 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.534 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.597 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.663 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.729 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.788 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.854 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.920 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:24.988 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.053 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.111 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.176 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.241 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.302 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.367 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.433 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.498 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.558 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.621 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.685 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.750 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.815 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.879 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:25.943 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.008 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.073 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.136 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.201 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.267 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.328 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.389 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.452 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.512 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.575 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.640 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.702 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.764 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.829 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.890 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:26.955 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.020 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.085 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.146 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.211 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.276 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.341 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.406 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.468 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.529 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.594 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.661 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.725 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.785 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.846 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.911 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:27.976 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.039 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.102 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.166 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.232 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.294 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.359 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.421 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.486 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.547 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.612 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.676 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.741 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.806 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.869 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.931 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:28.996 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.056 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.120 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.184 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.245 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.309 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.375 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.436 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.499 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.564 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.630 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.691 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.759 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.821 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.885 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:29.948 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.012 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.078 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.139 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.201 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.263 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.328 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.394 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.455 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.522 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.586 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.651 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.711 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.777 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.841 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.906 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:30.971 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.034 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.095 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.158 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.219 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.281 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.346 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.411 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.476 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.541 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.603 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.668 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.733 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.797 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.858 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.926 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:31.989 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.055 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.114 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.176 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.236 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.301 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.366 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.429 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.493 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.558 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.623 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.688 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.753 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.818 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.879 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:32.945 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.005 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.070 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.132 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.199 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.258 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.319 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.387 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.452 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.513 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.578 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.643 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.705 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.766 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.831 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.895 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:33.960 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.023 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.084 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.149 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.215 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.278 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.343 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.412 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.472 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.531 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.596 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.661 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.727 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.805 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.859 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.925 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:34.990 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.049 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.114 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.175 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.239 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.298 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.363 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.430 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.497 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.563 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.620 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.683 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.747 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.808 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.873 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:35.941 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.004 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.067 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.135 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.200 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.265 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.324 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.392 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.459 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.523 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.586 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.650 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.715 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.778 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.843 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.909 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:36.973 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:37.037 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:37.102 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:37.167 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:37.231 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:37.297 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:37.362 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:37.427 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:28:37.490 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:37.554 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:37.619 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:37.680 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:37.746 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:37.808 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:37.872 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:37.938 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.002 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.068 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.131 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.192 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.256 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.321 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.384 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.446 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.512 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.576 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.642 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.706 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.770 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.831 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.896 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:38.961 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.022 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.084 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.149 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.215 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.279 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.344 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.406 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.471 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.535 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.597 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.661 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.723 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.784 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.846 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.910 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:39.974 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.038 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.102 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.163 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.228 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.291 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.355 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.418 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.480 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.544 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.608 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.672 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.736 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.801 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.864 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.926 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:40.987 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.049 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.114 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.179 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.244 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.308 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.374 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.440 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.503 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.563 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.628 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.691 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.755 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.819 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.883 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:41.947 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.009 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.074 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.139 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.203 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.267 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.332 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.395 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.458 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.520 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.586 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.651 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.711 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.771 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.832 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.895 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:42.961 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.022 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.084 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.147 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.209 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.274 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.335 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.397 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.462 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.526 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.591 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.653 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.717 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.782 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.845 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.907 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:43.972 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.034 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.098 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.162 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.224 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.290 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.354 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.418 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.483 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.548 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.614 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.678 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.741 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.807 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.871 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.933 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:44.997 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.059 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.124 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.189 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.253 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.317 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.382 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.443 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.508 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.570 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.635 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.700 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.766 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.834 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.896 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:45.958 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.019 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.084 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.149 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.214 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.278 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.343 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.407 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.472 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.537 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.600 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.661 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.726 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.790 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.851 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.916 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:46.979 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.041 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.105 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.166 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.231 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.292 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.355 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.420 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.483 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.546 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.610 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.672 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.737 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.802 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.864 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.926 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:47.991 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.056 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.121 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.182 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.247 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.308 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.369 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.430 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.491 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.555 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.616 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.681 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.744 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.809 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.872 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.937 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:48.999 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.064 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.129 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.189 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.252 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.314 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.378 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.443 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.506 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.572 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.636 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.697 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.763 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.827 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.893 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:49.957 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.022 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.085 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.146 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.208 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.273 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.334 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.399 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.465 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.529 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.590 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.655 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.720 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.785 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.851 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.916 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:50.979 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.040 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.105 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.169 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.234 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.296 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.357 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.422 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.485 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.550 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.615 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.679 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.745 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.809 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.874 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:51.939 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.004 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.069 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.135 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.198 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.260 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.325 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.391 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.455 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.518 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.584 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.648 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.712 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.777 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.842 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.903 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:52.968 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:53.033 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:53.098 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:28:58.160 [main] INFO  com.example.GameLogic - Application started
+15:29:00.542 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:29:00.543 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:29:00.607 [main] INFO  com.example.GameLogic - Application exiting
+15:29:00.613 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:00.676 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:00.739 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:00.804 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:00.868 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:00.932 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:00.997 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.060 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.121 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.186 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.250 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.311 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.376 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.437 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.499 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.563 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.627 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.689 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.752 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.816 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.881 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:01.947 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:02.012 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:02.077 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:02.139 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:02.203 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:02.264 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:02.329 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:02.395 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:02.459 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:02.525 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:16.658 [main] INFO  com.example.GameLogic - Application started
+15:29:18.379 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:29:18.379 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:29:18.456 [main] INFO  com.example.GameLogic - Application exiting
+15:29:18.466 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:18.524 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:18.588 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:18.654 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:18.719 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:18.783 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:18.848 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:18.908 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:18.973 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.039 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.103 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.167 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.232 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.296 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.362 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.423 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.485 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.486 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:19.547 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.547 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:19.612 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.612 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:19.674 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.674 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:19.742 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.742 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:19.807 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.807 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:19.869 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.869 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:19.930 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.930 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:19.991 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:19.991 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.055 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.056 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.119 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.119 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.183 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.183 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.248 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.248 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.313 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.314 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.377 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.377 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.443 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.443 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.508 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.508 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.568 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.568 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.630 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.630 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.690 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.690 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.756 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.756 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.773 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed clicker
+15:29:20.818 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.818 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.882 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.883 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.947 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:20.947 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:20.952 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed clicker
+15:29:21.009 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.009 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.074 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.074 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.123 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed clicker
+15:29:21.140 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.140 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.199 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.199 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.266 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.266 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.281 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed clicker
+15:29:21.326 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.326 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.390 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.390 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.443 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed clicker
+15:29:21.451 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.451 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.516 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.516 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.581 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.581 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.620 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed clicker
+15:29:21.646 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.646 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.707 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.708 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.769 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.770 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.803 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed clicker
+15:29:21.833 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.833 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.897 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.897 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:21.960 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed clicker
+15:29:21.962 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:21.962 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.024 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.024 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.084 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.085 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.105 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed clicker
+15:29:22.149 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.150 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.214 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.214 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.278 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.278 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.295 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed clicker
+15:29:22.341 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.341 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.406 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.406 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.445 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed clicker
+15:29:22.471 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.472 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.533 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.533 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.597 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.597 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.662 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.662 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.727 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.727 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.791 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.791 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.853 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.853 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.919 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.919 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:22.984 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:22.984 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:23.044 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.045 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:23.106 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.106 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:23.171 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.172 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:23.232 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.232 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:23.296 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.296 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:23.361 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.361 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:23.426 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.426 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:23.495 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.495 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:23.551 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.551 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:23.613 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.614 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:23.677 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.677 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:23.743 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.743 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:23.806 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.806 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:23.868 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.868 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:23.933 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.933 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:23.998 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:23.998 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.061 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.061 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.125 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.125 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.190 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.190 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.254 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.254 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.311 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed chifir
+15:29:24.320 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.320 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.383 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.383 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.450 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.450 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.515 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.516 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.519 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed chifir
+15:29:24.578 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.578 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.643 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.643 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.711 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.711 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.715 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed chifir
+15:29:24.768 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.768 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.832 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.832 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.897 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.897 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:24.901 [AWT-EventQueue-0] INFO  com.example.GameLogic - pressed chifir
+15:29:24.958 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:24.958 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.020 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.020 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.084 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.084 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.145 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.146 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.211 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.212 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.275 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.276 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.339 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.339 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.404 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.404 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.470 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.470 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.534 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.534 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.599 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.599 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.664 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.664 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.728 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.728 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.787 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.787 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.848 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.848 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.912 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.913 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:25.974 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:25.974 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.034 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.034 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.098 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.098 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.163 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.163 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.228 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.228 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.292 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.292 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.353 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.353 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.418 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.418 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.484 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.485 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.550 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.550 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.611 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.611 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.673 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.673 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.741 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.741 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.803 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.803 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.868 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.868 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.932 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:26.932 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:26.999 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.000 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.061 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.062 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.124 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.125 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.186 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.186 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.247 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.247 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.312 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.312 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.375 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.376 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.439 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.440 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.506 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.507 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.570 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.570 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.635 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.636 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.702 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.703 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.766 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.766 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.825 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.825 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:29:27.889 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:27.955 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.022 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.085 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.145 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.211 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.275 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.333 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.397 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.469 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.527 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.589 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.658 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.722 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.784 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.849 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.914 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:28.975 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.038 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.099 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.165 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.230 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.291 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.356 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.423 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.489 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.554 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.616 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.682 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.747 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.814 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.877 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:29.940 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.002 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.063 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.125 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.191 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.258 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.322 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.383 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.449 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.513 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.580 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.642 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.708 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.770 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.832 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:30.895 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:30.958 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.022 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.090 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.153 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.217 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.282 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.348 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.412 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.477 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.540 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.605 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.665 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.727 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.787 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.848 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.913 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:31.978 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.043 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.104 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.168 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.233 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.297 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.362 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.422 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.487 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.552 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.617 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.683 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.747 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.818 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:29:32.819 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:29:32.877 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.938 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:32.998 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.063 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.128 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.193 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.258 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.318 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.384 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.446 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.512 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.577 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.642 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.706 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.766 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.832 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.894 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:33.957 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:34.022 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:29:34.082 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:33:23.122 [main] INFO  com.example.GameLogic - Application started
+15:33:25.471 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:33:25.472 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:33:25.547 [main] INFO  com.example.GameLogic - Application exiting
+15:33:25.565 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:25.615 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:25.677 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:25.737 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:25.802 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:25.867 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:25.932 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:25.998 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.062 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.124 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.189 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.252 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.317 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.383 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.445 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.510 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.571 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.635 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.697 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.762 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.827 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.888 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:26.954 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.015 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.079 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.142 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.208 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.269 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.334 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.400 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.463 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.464 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:27.528 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.528 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:27.600 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.600 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:27.660 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.660 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:27.722 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.723 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:27.788 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.788 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:27.849 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.850 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:27.915 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.915 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:27.979 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:27.979 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:28.041 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.041 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:28.104 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.104 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:28.163 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.163 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:28.224 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.225 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:28.285 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.286 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:28.350 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.351 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:28.417 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.417 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:28.476 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.477 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:28.541 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.541 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:28.606 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.606 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:28.672 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.672 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:28.734 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.735 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:28.801 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.801 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:28.863 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.863 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:28.928 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.929 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:28.988 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:28.988 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:29.054 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.055 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:29.118 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.118 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:29.182 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.247 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.309 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.375 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.439 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.503 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.568 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.633 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.697 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.761 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.823 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.887 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:29.950 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:30.011 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:30.076 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:30.139 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:30.201 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:30.264 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:30.326 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:30.388 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:30.452 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:52.568 [main] INFO  com.example.GameLogic - Application started
+15:33:54.840 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:33:54.841 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:33:54.916 [main] INFO  com.example.GameLogic - Application exiting
+15:33:54.929 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:54.984 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.046 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.110 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.175 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.237 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.303 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.369 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.430 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.494 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.559 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.621 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.686 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.749 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.812 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.878 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:55.944 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.007 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.067 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.132 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.197 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.262 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.327 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.332 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:56.392 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.393 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:56.458 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.458 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:56.524 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.524 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:56.584 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.584 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:56.646 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.646 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:56.707 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.707 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:56.769 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.770 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:56.833 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.834 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:56.898 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.898 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:56.964 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:56.964 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:57.028 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.029 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:57.093 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.093 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:57.158 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.158 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:57.224 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.224 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:57.287 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.287 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:57.351 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.351 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:57.415 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.416 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:57.480 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.481 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:33:57.551 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.552 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:57.610 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.610 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:57.676 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.676 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:57.746 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.746 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:57.808 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.809 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:57.871 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.871 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:57.937 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:57.937 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:58.001 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.002 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:58.072 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.072 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:58.127 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.127 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:58.192 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.193 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:58.257 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.257 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:58.317 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.317 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:58.377 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.378 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:58.443 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.443 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:33:58.505 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.570 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.635 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.700 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.762 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.822 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.889 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:58.953 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.015 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.079 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.145 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.209 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.274 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.339 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.404 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.465 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.526 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.590 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.651 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.717 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.778 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.839 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:33:59.900 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:18.797 [main] INFO  com.example.GameLogic - Application started
+15:34:20.812 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:34:20.813 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:34:20.887 [main] INFO  com.example.GameLogic - Application exiting
+15:34:20.898 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:20.955 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.018 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.080 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.144 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.207 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.267 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.329 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.394 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.460 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.524 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.590 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.651 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.712 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.777 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.838 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.898 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:21.960 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.025 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.092 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.152 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.217 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.285 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.347 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.411 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.476 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.541 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.543 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:22.607 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.607 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:22.674 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.674 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:22.738 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.738 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:22.796 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.797 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:22.858 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.859 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:22.924 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.924 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:22.989 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:22.989 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:23.049 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.050 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:23.115 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.115 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:23.175 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.175 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:23.236 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.236 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:23.299 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.299 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:23.364 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.365 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:23.427 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.427 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:23.491 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.491 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:23.555 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.556 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:23.621 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.622 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:23.687 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.687 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:23.751 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.751 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:23.816 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.816 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:23.882 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.882 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:23.947 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:23.948 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:24.016 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.017 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:24.076 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.076 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:24.142 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.142 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:24.208 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.208 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:24.269 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.269 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:24.330 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.330 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:24.394 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.394 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:24.458 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.459 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:24.521 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.582 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.648 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.709 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.773 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.839 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.908 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:24.964 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.025 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.090 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.152 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.218 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.283 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.346 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.414 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.480 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.535 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.600 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.665 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.733 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.789 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.858 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.922 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:25.985 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.049 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.115 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.182 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.246 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.309 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.374 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.439 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.503 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.565 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.634 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.700 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.768 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.829 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.898 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:26.964 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:27.023 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:27.086 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:27.149 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:27.214 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:27.278 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:27.340 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:27.405 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:27.471 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:27.530 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:27.595 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:27.656 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:27.722 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:27.788 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:27.849 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:27.914 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:27.979 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.040 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.105 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.165 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.230 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.294 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.358 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.420 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.486 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.548 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.608 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.669 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.732 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.798 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.862 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.924 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:28.990 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.055 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.119 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.182 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.243 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.304 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.365 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.427 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.490 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.555 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.616 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.681 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.741 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.807 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.869 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.933 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:29.997 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.059 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.124 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.185 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.248 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.309 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.375 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.439 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.505 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.570 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.632 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.697 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.761 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.826 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.885 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:30.950 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.012 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.074 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.136 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.201 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.262 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.327 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.390 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.453 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.519 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.580 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.644 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.709 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.774 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.839 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.900 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:31.961 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.026 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.090 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.156 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.218 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.282 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.347 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.421 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.479 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.540 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.604 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.668 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.733 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.795 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.857 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.921 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:32.986 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.050 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.115 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.180 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.245 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.310 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.372 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.435 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.499 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.560 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.624 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.690 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.750 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.815 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.878 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:33.943 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.004 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.069 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.131 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.195 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.262 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.325 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.390 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.455 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.519 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.583 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.648 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.712 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.777 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.842 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.903 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:34.967 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.032 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.097 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.162 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.227 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.291 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.352 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.415 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.481 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.547 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.608 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.672 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.736 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.800 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.861 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.923 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:35.988 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.053 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.118 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.183 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.247 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.309 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.379 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.444 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.507 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.572 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.634 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.693 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.753 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.813 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.878 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:36.943 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.005 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.073 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.132 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.195 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.256 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.319 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.384 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.445 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.506 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.572 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.637 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.700 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.765 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.829 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.895 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:37.958 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.021 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.083 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.147 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.212 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.275 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.337 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.400 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.462 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.523 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.588 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.650 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.715 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.776 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.841 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.903 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:38.968 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.030 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.092 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.158 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.218 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.284 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.348 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.415 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.484 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.550 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.612 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.672 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.736 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.801 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.862 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.927 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:39.992 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.055 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.120 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.183 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.243 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.307 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.371 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.436 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.500 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.565 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.625 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.692 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.753 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.819 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.883 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:40.948 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.013 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.076 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.142 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.202 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.267 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.332 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.394 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.456 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.519 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.585 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.650 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.715 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.776 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.839 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.900 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:41.964 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.029 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.094 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.160 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.225 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.286 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.351 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.416 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.482 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.547 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.611 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.677 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.741 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.804 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.869 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.933 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:42.999 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.060 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.134 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.186 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.250 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.315 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.378 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.438 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.502 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.566 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.632 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.697 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.761 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.826 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.890 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:43.956 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.024 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.087 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.151 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.211 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.275 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.337 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.402 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.463 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.524 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.589 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.650 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.715 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.780 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.845 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.909 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:44.972 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.034 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.099 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.165 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.230 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.296 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.360 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.425 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.492 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.557 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.622 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.687 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.749 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.815 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.877 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:45.939 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.003 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.074 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.140 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.203 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.267 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.329 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.394 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.457 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.521 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.582 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.647 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.712 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.776 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.840 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.904 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:46.970 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.033 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.097 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.161 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.227 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.292 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.353 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.417 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.479 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.541 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.604 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.666 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.727 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.792 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.856 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.925 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:47.997 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.063 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.130 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.194 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.260 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.319 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.384 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.446 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.506 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.571 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.633 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.694 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.759 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.822 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.888 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:48.949 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.014 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.079 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.144 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.207 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.270 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.334 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.399 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.463 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.526 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.587 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.647 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.710 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.776 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.835 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.898 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:49.963 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.028 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.093 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.159 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.222 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.286 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.351 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.417 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.483 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.544 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.610 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.674 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.739 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.799 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.864 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.929 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:50.993 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+15:34:54.533 [main] INFO  com.example.GameLogic - Application started
+15:34:56.595 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:34:56.595 [main] INFO  com.example.GameLogic - Inside reloadSave
+15:34:56.672 [main] INFO  com.example.GameLogic - Application exiting
+15:34:56.683 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:56.740 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:56.800 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:56.866 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:56.927 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:56.991 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.054 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.114 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.180 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.245 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.310 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.375 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.441 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.502 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.563 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.628 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.690 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.750 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.813 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.875 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.940 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:57.942 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.005 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.005 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.069 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.070 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.137 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.138 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.193 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.193 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.258 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.258 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.318 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.318 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.379 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.379 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.443 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.443 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.509 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.510 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.573 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.573 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.637 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.637 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.700 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.701 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.765 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.765 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.826 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.826 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.891 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.892 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:58.953 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:58.953 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:59.015 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.015 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:59.078 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.079 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:59.142 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.142 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:59.207 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.207 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:59.270 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.270 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:59.332 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.333 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:59.397 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.397 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:59.463 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.463 [Timer-0] INFO  com.example.GameLogic - switch screen feeding
+15:34:59.525 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.526 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:59.585 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.586 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:59.647 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.647 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:59.707 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.708 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:59.771 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.771 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:59.832 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.833 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:59.894 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.894 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:34:59.955 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:34:59.955 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:35:00.016 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.017 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:35:00.081 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.082 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:35:00.147 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.147 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:35:00.212 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.212 [Timer-0] INFO  com.example.GameLogic - switch screen games
+15:35:00.277 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.337 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.401 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.464 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.530 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.594 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.659 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.724 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.790 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.851 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.916 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:00.981 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.047 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.107 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.172 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.233 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.299 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.363 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.430 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.495 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.554 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.617 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.684 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.750 [Timer-0] INFO  com.example.GameLogic - switch screen
+15:35:01.809 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:27:58.205 [main] INFO  com.example.GameLogic - Application started
+17:28:01.019 [main] INFO  com.example.GameLogic - Inside reloadSave
+17:28:01.022 [main] INFO  com.example.GameLogic - Inside reloadSave
+17:28:01.394 [main] INFO  com.example.GameLogic - Application exiting
+17:28:01.444 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:01.480 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:01.526 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:01.588 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:01.649 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:01.710 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:01.770 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:01.831 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:01.890 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:01.951 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.013 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.073 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.134 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.194 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.254 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.316 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.378 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.438 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.498 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.559 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.621 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.679 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.740 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.801 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.862 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.922 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:02.983 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.044 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.105 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.165 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.226 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.287 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.348 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.410 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.470 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.531 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.591 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.651 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.713 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.775 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.834 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.896 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:03.957 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.018 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.079 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.139 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.200 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.260 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.322 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.382 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.442 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.504 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.564 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.625 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.686 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.747 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.808 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.869 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.930 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:04.991 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.051 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.112 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.173 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.233 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.294 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.355 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.415 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.477 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.537 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.597 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.658 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.719 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.780 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.840 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.901 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:05.963 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.022 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.083 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.144 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.205 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.265 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.326 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.386 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.448 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.508 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.569 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.629 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.691 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.751 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.811 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.872 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.933 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:06.993 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:07.054 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:07.115 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:07.176 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:07.236 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:07.297 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:07.358 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:07.418 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:07.479 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:07.540 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:49.863 [main] INFO  com.example.GameLogic - Application started
+17:28:52.356 [main] INFO  com.example.GameLogic - Inside reloadSave
+17:28:52.359 [main] INFO  com.example.GameLogic - Inside reloadSave
+17:28:52.497 [main] INFO  com.example.GameLogic - Application exiting
+17:28:52.535 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:52.576 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:52.622 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:52.682 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:52.742 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:52.804 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:52.865 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:52.925 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:52.987 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.047 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.107 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.168 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.229 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.290 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.350 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.411 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.472 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.532 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.593 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.655 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.715 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.776 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:28:53.836 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:42.782 [main] INFO  com.example.GameLogic - Application started
+17:37:45.453 [main] INFO  com.example.GameLogic - Inside reloadSave
+17:37:45.454 [main] INFO  com.example.GameLogic - Inside reloadSave
+17:37:45.606 [main] INFO  com.example.GameLogic - Application exiting
+17:37:45.659 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:45.689 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:45.738 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:45.799 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:45.860 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:45.921 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:45.981 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.043 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.105 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.164 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.225 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.286 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.346 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.408 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.468 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.527 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.588 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.649 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.710 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.770 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.831 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.892 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:46.952 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:47.013 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:47.073 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:47.133 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:47.194 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:37:47.255 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:31.666 [main] INFO  com.example.GameLogic - Application started
+17:39:36.148 [main] INFO  com.example.GameLogic - Inside reloadSave
+17:39:36.152 [main] INFO  com.example.GameLogic - Inside reloadSave
+17:39:36.302 [main] INFO  com.example.GameLogic - Application exiting
+17:39:36.337 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:36.377 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:36.426 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:36.487 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:36.547 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:36.607 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:36.668 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:36.729 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:36.791 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:36.851 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:36.911 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:36.973 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.034 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.095 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.155 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.216 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.277 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.336 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.398 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.458 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.519 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.579 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.639 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.699 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.761 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.820 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.882 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:37.941 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.002 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.064 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.123 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.183 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.243 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.304 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.365 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.425 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.485 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.547 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.606 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.667 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.728 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.789 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.849 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.910 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:38.970 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.032 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.091 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.153 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.212 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.273 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.334 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.395 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.457 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.516 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.577 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.639 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.699 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.760 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.822 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.881 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:39.943 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.002 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.063 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.122 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.182 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.244 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.303 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.364 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.425 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.485 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.546 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.606 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.667 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.728 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.788 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.850 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.910 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:40.971 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.033 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.093 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.153 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.214 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.274 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.334 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.395 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.456 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.541 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.577 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.638 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.699 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.759 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.820 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.881 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:41.941 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.002 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.064 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.123 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.184 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.244 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.304 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.365 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.425 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.485 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.546 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.607 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.668 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.728 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.789 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.850 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:42.914 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:42.970 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.031 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.091 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.152 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.212 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.273 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.334 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.395 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.455 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.515 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.576 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.637 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.697 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.758 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.819 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.880 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:43.940 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.000 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.061 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.122 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.183 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.243 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.304 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.365 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.425 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.486 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.547 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.607 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.668 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.729 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.789 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.850 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.910 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:44.970 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.031 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.092 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.153 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.213 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.274 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.335 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.396 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.457 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.518 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.579 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.639 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.700 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.760 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.821 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.881 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:45.942 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.003 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.063 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.123 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.184 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.245 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.305 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.366 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.426 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.487 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.548 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.608 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.669 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.730 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.790 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.851 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.912 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:46.973 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.033 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.094 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.154 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.216 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.277 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.337 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.398 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.459 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.520 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.581 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.642 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.703 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.763 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.824 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.885 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:47.945 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.006 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.066 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.126 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.187 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.248 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.308 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.369 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.429 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.490 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.550 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.611 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.671 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.732 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.793 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.853 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.914 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:48.975 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.035 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.086 [AWT-EventQueue-0] INFO  com.example.GameLogic - Inside startnewgame
+17:39:49.096 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.156 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.217 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.277 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.337 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.398 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.458 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.518 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.578 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.639 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.699 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.760 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.820 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.881 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:49.941 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.001 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.062 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.123 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.184 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.244 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.304 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.365 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.426 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.487 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.547 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.608 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.668 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.729 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.789 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.849 [Timer-0] INFO  com.example.GameLogic - switch screen dead
+17:39:50.912 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:50.972 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.032 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.093 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.153 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.214 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.274 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.336 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.396 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.456 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.517 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.578 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.639 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.700 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.761 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.821 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.881 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:51.946 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.003 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.063 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.124 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.185 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.246 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.307 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.367 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.427 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.488 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.548 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.609 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.671 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.731 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.792 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.853 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.914 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:52.974 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.034 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.096 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.155 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.216 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.278 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.338 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.398 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.459 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.519 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.581 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.641 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.703 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.763 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.823 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.884 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:53.944 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.005 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.065 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.126 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.187 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.248 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.309 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.369 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.431 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.493 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.552 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.613 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.674 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.735 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.795 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.856 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.917 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:54.978 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.039 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.101 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.162 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.223 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.284 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.345 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.405 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.466 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.526 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.587 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.648 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.709 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.770 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.831 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.893 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:55.953 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.013 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.074 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.133 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.194 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.255 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.315 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.376 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.437 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.498 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.558 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.619 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.679 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.740 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.800 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.861 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.922 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:56.982 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.043 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.103 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.165 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.226 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.287 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.347 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.408 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.469 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.529 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.589 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.649 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.710 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.771 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.832 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.892 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:57.953 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.013 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.073 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.134 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.195 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.255 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.316 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.376 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.437 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.498 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.558 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.619 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.680 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.740 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.801 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.862 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.922 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:58.983 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.043 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.104 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.165 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.226 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.286 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.347 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.408 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.469 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.530 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.590 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.651 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.712 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.773 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.834 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.895 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:39:59.955 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.015 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.076 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.137 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.197 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.259 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.320 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.380 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.441 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.501 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.562 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.622 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.682 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.743 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.803 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.863 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.924 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:00.985 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.045 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.105 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.165 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.225 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.286 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.347 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.408 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.469 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.529 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.589 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.650 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.711 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.771 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.832 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.893 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:01.953 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.014 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.075 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.136 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.196 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.257 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.318 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.379 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.439 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.500 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.561 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.621 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.682 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.742 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.802 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.863 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.923 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:02.984 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.045 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.107 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.168 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.228 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.288 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.348 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.409 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.470 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.530 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.592 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.652 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.712 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.773 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.834 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.894 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:03.955 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.016 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.077 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.137 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.198 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.259 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.319 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.379 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.440 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.501 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.561 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.622 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.683 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.744 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.805 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.865 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.925 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:04.986 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:05.047 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:05.106 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:05.166 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:05.227 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:05.288 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:05.348 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:05.409 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:39.428 [main] INFO  com.example.GameLogic - Application started
+17:40:47.358 [main] INFO  com.example.GameLogic - Inside reloadSave
+17:40:47.363 [main] INFO  com.example.GameLogic - Inside reloadSave
+17:40:47.520 [main] INFO  com.example.GameLogic - Application exiting
+17:40:47.561 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:47.598 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:47.645 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:47.706 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:47.766 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:47.827 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:47.887 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:47.948 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.011 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.070 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.131 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.192 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.252 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.312 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.373 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.432 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.492 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.554 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.614 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.675 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.736 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.798 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.858 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.918 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:48.979 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.039 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.100 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.160 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.221 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.282 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.342 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.404 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.464 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.525 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.585 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.646 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.710 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.768 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.830 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.890 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:49.951 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.011 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.071 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.133 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.194 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.254 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.314 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.375 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.435 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.496 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.556 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.617 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.678 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.738 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.800 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.860 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.920 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:50.981 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.041 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.102 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.162 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.223 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.284 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.346 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.406 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.466 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.526 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.587 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.648 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.708 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.772 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.829 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.890 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:51.950 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.011 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.071 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.131 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.191 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.253 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.313 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.374 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.435 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.495 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.556 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.617 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.678 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.738 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.799 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.860 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.921 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:52.982 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:53.043 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:53.104 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:53.165 [Timer-0] INFO  com.example.GameLogic - switch screen
+17:40:53.226 [Timer-0] INFO  com.example.GameLogic - switch screen

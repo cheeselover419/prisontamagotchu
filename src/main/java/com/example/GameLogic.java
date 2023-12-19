@@ -34,7 +34,7 @@ import java.util.regex.Pattern;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
+import javax.sound.sampled.*;
 
 public class GameLogic {
     private static final Scanner scanner = new Scanner(System.in);
@@ -83,6 +83,10 @@ public class GameLogic {
         gamesCanvas.add(radio);
 
         Pet pet = new Pet();
+
+        String filePath = "src/main/resources/Gio.wav";
+        playBackgroundMusic(filePath);
+
 
 
         Runtime.getRuntime().addShutdownHook(new Thread(() -> {
@@ -384,6 +388,19 @@ public class GameLogic {
             e.printStackTrace();
         }
 
+    }
+
+    public static void playBackgroundMusic(String fileName) {
+        try {
+            File soundFile = new File(fileName);
+            AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(soundFile);
+            Clip clip = AudioSystem.getClip();
+            clip.open(audioInputStream);
+            clip.loop(Clip.LOOP_CONTINUOUSLY);
+            clip.start();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
     public static void reloadSave(Pet p) {

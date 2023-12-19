@@ -119,16 +119,18 @@ public class CanvasLayer implements ActionListener {
 
 //        filepath to non animated images (food & background)
         try {
-            cupcake = ImageIO.read(new File("src/images/sigarette.png"));
-            pizza = ImageIO.read(new File("src/images/pizza.png"));
-            broccoli = ImageIO.read(new File("src/images/broccoli.png"));
             bg = ImageIO.read(new File("src/images/bg.png"));
-            cutlery = ImageIO.read(new File("src/images/cutlery.png"));
             home = ImageIO.read(new File("src/images/home.png"));
-            //restart = ImageIO.read(new File("src/images/restart.png"));
             games = ImageIO.read(new File("src/images/gamepad.png"));
             cursor = ImageIO.read(new File("src/images/gamepad.png"));
             radio = ImageIO.read(new File("src/images/gamepad.png"));
+
+            cutlery = ImageIO.read(new File("src/images/cutlery.png"));
+
+            cupcake = ImageIO.read(new File("src/images/sigarette.png"));
+            pizza = ImageIO.read(new File("src/images/pizza.png"));
+            broccoli = ImageIO.read(new File("src/images/broccoli.png"));
+            //restart = ImageIO.read(new File("src/images/restart.png"));
 
         } catch (IOException e) {
             e.printStackTrace();
