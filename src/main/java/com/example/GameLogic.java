@@ -1,6 +1,5 @@
 package com.example;
 
-import java.awt.event.ActionEvent;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.io.File;
@@ -22,19 +21,15 @@ import java.util.Date;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import java.io.File;
+
 import java.io.FileOutputStream;
 import java.io.FileInputStream;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
+import javax.sound.sampled.*;
 
 public class GameLogic {
     private static final Scanner scanner = new Scanner(System.in);
@@ -83,6 +78,9 @@ public class GameLogic {
         gamesCanvas.add(radio);
 
         Pet pet = new Pet();
+
+        String filePath = "src/main/resources/Gio.wav";
+        playBackgroundMusic(filePath);
 
 
         Runtime.getRuntime().addShutdownHook(new Thread(() -> {
@@ -482,6 +480,18 @@ public class GameLogic {
 
     }
 
+    public static void playBackgroundMusic(String fileName) {
+        try {
+            File soundFile = new File(fileName);
+            AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(soundFile);
+            Clip clip = AudioSystem.getClip();
+            clip.open(audioInputStream);
+            clip.loop(Clip.LOOP_CONTINUOUSLY);
+            clip.start();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 
     public static boolean foodCollide(Food food, MouseEvent mouse) {
         return mouse.getX() > food.x && mouse.getX() < (food.x + food.ovalWidth) &&
