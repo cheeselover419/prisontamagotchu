@@ -4,11 +4,11 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class Pet {
-    int happinessLvl, healthLvl, happinessMax = 100, healthMax = 100, loveLvl = 100, money;
-    String name;
+    public int happinessLvl, healthLvl, happinessMax = 100, healthMax = 100, loveLvl = 100, money;
+    public String name;
     String[] petFile = {"p1", "p2", "p3"};
     String filePet = "src/images/pet/" + petFile[Var.animationPetFileInt] + ".png";
-    Timer lveTimer = null, aPetTimer = null, illTimer = null, deadTimer = null;
+    public Timer lveTimer = null, aPetTimer = null, illTimer = null, deadTimer = null;
     Boolean moreLove;
 
     public void petA() {
