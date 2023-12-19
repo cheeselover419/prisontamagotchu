@@ -156,7 +156,7 @@ public class GameLogic {
                             pet.moreHappiness(cigarette);
                             pet.moreHealth(cigarette);
                             logger.info("pressed cigarette");
-
+                            Client.sendMessage(pet.name+": покурил");
                         }
                     }
                     if (foodCollide(soup, e)) {
@@ -165,7 +165,7 @@ public class GameLogic {
                             pet.moreHappiness(soup);
                             pet.moreHealth(soup);
                             logger.info("pressed soup");
-
+                            Client.sendMessage(pet.name+": поел пиццы");
                         }
                     }
                     if (foodCollide(chifir, e)) {
@@ -174,7 +174,7 @@ public class GameLogic {
                             pet.moreHappiness(chifir);
                             pet.moreHealth(chifir);
                             logger.info("pressed chifir");
-
+                            Client.sendMessage(pet.name+": поел брокколи");
                         }
                     }
                 }
@@ -184,7 +184,7 @@ public class GameLogic {
                         pet.moreHappinessGame(clicker);
                         pet.moreMoney(clicker);
                         logger.info("pressed clicker");
-
+                        Client.sendMessage(pet.name+": заработал десяточку");
                     }
                     if(gameCollide(radio, e)){
                         pet.moreHappinessGame(radio);
